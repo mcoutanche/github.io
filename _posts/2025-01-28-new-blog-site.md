@@ -4,7 +4,7 @@ title: TechKB has moved!
 author: michael
 categories: [ Blog ]
 # tags: [Blog, AI, AKS]
-image: /assets/img/2024/new-icon.jpg
+image: /assets/images/2024/new-icon.jpg
 description: "Introducing my new blog"
 featured: true
 # hidden: true
