@@ -21,6 +21,8 @@ bla
 ##### Section 2: Microsoft Azure's Adaptive Cloud Strategy
 bla
 
+![adaptive]({{ site.baseurl }}/assets/images/2024/Figure-1-Adaptive-Cloud-v2.png)
+
 # Section 3: Real-World Applications and Use Cases
 
 Section 4: Benefits of Azure's Adaptive Cloud for Businesses
