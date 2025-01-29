@@ -4,7 +4,7 @@ title: We have moved!
 author: michael
 categories: [ Blog ]
 # tags: [Blog, AI, AKS]
-image: image: assets/images/2024/moved.png
+image: image: assets/images/2024/moved.png"
 description: "Introducing my new blog"
 featured: true
 # hidden: true
