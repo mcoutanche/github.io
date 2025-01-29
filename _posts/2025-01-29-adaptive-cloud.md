@@ -6,7 +6,7 @@ categories: [ Microsoft, Azure ]
 tags: [ARC, AI, AKS]
 image: assets/images/1.jpg
 description: "My review of Inception movie. Acting, plot and something else in this short description."
-featured: true
+# featured: true
 hidden: true
 rating: 4.5
 ---
@@ -21,7 +21,7 @@ bla
 ##### Section 2: Microsoft Azure's Adaptive Cloud Strategy
 bla
 
-![adaptive]({{ site.baseurl }} /assets/images/2024/Figure-1-Adaptive-Cloud-v2.png){: .align-center width="300px" height="300px"}
+![adaptive]({{ site.baseurl }} /assets/images/2024/Figure-1-Adaptive-Cloud-v2.png){: .align-center}{:width="200px" height="200px"}
 
 # Section 3: Real-World Applications and Use Cases
 
