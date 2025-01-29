@@ -1,12 +1,14 @@
 ---
 layout: post
 title: TechKB has moved! 
-subtitle: Introducing my new blog
-cover-img: /assets/img/2024/banner-seattle.jpg
-thumbnail-img: /assets/img/2024/new-icon.jpg
-share-img: /assets/img/2024/new-icon.jpg
-tags: [Blog, New, Azure]
-author: Michael Coutanche
+author: michael
+categories: [ Blog ]
+# tags: [Blog, AI, AKS]
+image: /assets/img/2024/new-icon.jpg
+description: "Introducing my new blog"
+featured: true
+# hidden: true
+rating: 4.5
 ---
 
 ## Welcome to my new blog about all things Azure
