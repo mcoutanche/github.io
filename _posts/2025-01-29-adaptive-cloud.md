@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Embracing the Future with Adaptive Cloud"
-author: Michael Coutanche
+author: michael
 categories: [ Microsoft, Azure ]
 tags: [ARC, AI, AKS]
 image: assets/images/1.jpg
