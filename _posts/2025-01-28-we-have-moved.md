@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We have moved! 
+title: "We have moved!" 
 author: michael
 categories: [ Blog ]
 # tags: [Blog, AI, AKS]
