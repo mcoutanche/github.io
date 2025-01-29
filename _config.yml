@@ -17,7 +17,8 @@ authors:
   michael:
     name: Michael
     display_name: Michael
-    gravatar: gladiatorgenerouse1d21fcdd3
+    avatar: 'assets/images/avatar.png'
+ #   gravatar: gladiatorgenerouse1d21fcdd3
     email: michaelcoutanche@outlook.com
     web: https://blog.techkb.onl
     twitter: https://x.com/mum3LE5
