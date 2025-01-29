@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TechKB has moved! 
+title: We have moved! 
 author: michael
 categories: [ Blog ]
 # tags: [Blog, AI, AKS]
