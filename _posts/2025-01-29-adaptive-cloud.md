@@ -2,8 +2,8 @@
 layout: post
 title:  "Embracing the Future with Adaptive Cloud"
 author: Michael Coutanche
-categories: [ Microsoft, Azure, ARC ]
-tags: [red, yellow]
+categories: [ Microsoft, Azure ]
+tags: [ARC, AI, AKS]
 image: assets/images/1.jpg
 description: "My review of Inception movie. Acting, plot and something else in this short description."
 featured: true
@@ -36,8 +36,8 @@ Section 7: Future Trends and Developments
 layout: post
 title:  "Embracing the Future with Adaptive Cloud"
 author: Michael Coutanche
-categories: [ Microsoft, Azure, ARC ]
-tags: [red, yellow]
+categories: [ Microsoft, Azure ]
+tags: [ARC, AI, AKS]
 image: assets/images/1.jpg
 description: "My review of Inception movie. Actors, directing and more."
 rating: 4.5
