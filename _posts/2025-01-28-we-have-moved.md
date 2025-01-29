@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "We have moved!" 
+title:  "We have moved!"
 author: michael
-categories: [ Blog ]
-tags: [ GitHub ]
-image: image: assets/images/2024/moved.png
-description: "Introducing my new blog"
+categories: [ Microsoft, Azure ]
+tags: [ARC, AI, AKS]
+image: assets/images/2024/moved.png
+description: "Introducing my new blog."
 featured: true
 # hidden: true
 rating: 4.5
