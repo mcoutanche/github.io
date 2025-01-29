@@ -21,7 +21,7 @@ bla
 ##### Section 2: Microsoft Azure's Adaptive Cloud Strategy
 bla
 
-![adaptive]({{ site.baseurl }} /assets/images/2024/Figure-1-Adaptive-Cloud-v2.png){:width="300px" height="300px" .align-center}
+![adaptive]({{ site.baseurl }} /assets/images/2024/Figure-1-Adaptive-Cloud-v2.png){: .align-center width="300px" height="300px"}
 
 # Section 3: Real-World Applications and Use Cases
 
