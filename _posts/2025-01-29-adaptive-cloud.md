@@ -11,14 +11,14 @@ featured: true
 rating: 4.5
 ---
 
-### Introduction
+#### Introduction
 
 Review products, books, movies, restaurant and anything you like on your Jekyll blog with Mediumish! JSON-LD ready for review property.
 
-# Section 1: Understanding Adaptive Cloud
+##### Section 1: Understanding Adaptive Cloud
 bla
 
-# Section 2: Microsoft Azure's Adaptive Cloud Strategy
+##### Section 2: Microsoft Azure's Adaptive Cloud Strategy
 bla
 
 # Section 3: Real-World Applications and Use Cases
