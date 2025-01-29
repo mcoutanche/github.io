@@ -3,7 +3,7 @@ layout: post
 title: "We have moved!" 
 author: michael
 categories: [ Blog ]
-# tags: [Blog, AI, AKS]
+tags: [ GitHub ]
 image: image: assets/images/2024/moved.png"
 description: "Introducing my new blog"
 featured: true
