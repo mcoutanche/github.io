@@ -21,6 +21,10 @@ Microsoft's Adaptive Cloud approach is a flexible and intelligent cloud strategy
 
 ![adaptive]({{ site.baseurl }} /assets/images/2024/Figure-1-Adaptive-Cloud-v2.png 'Adaptive cloud works simultaneously across hybrid, multicloud, edge, and IoT environments.'){:width="400px" height="400px" style="display: block; margin: 0 auto"}
 
+###### traditional, Hybrid and Adaptive Cloud
+
+evolution of cloud
+
 ###### Benefits of Azure’s Adaptive cloud
 
 Azure's Adaptive Cloud offers several key benefits for businesses and enterprises, including:
