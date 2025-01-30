@@ -11,7 +11,7 @@ featured: true
 rating: 5.0
 ---
 
-> This is a list of Azure resources that will be regularly reviewed and updated. Any comments or suggestions for additions, updates, or deprecated links are greatly appreciated.
+> This is the first official article since the relaunch of TechKB.onl. It features an evolving list of Azure resources that will be regularly reviewed and updated. All comments with suggestions for additions, updates, or deprecated links are welcome. 
 
 ##### Tools:
 
