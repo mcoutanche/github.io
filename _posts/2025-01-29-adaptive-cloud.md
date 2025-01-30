@@ -49,6 +49,9 @@ Azure's Adaptive Cloud offers several key benefits for businesses and enterprise
 Overall, Azure's Adaptive Cloud empowers businesses with a modern, resilient, and intelligent cloud infrastructure that evolves with their needs.
 
 ###### Key Azure Service 
+
+(ADD IMAGES)
+
 Azure’s Adaptive Cloud integrates with a wide range of services to enable seamless hybrid, multi-cloud, and edge computing capabilities. Key Azure services that align with this approach include:
 1. Hybrid & Multi-Cloud Management
 •	Azure Arc – Extends Azure services and management to any infrastructure, including on-premises, edge, and multi-cloud environments.
@@ -90,7 +93,10 @@ Conclusion
 •	Recap of the importance of adaptive cloud.
 •	Encouragement for businesses to explore Azure's adaptive cloud solutions.
 •	Call to action: Learn more about Azure's adaptive cloud offerings and start your journey today.
- 
+
+(ADD HYPER LINKS)
+Reference:
+
 Adaptive Cloud | Microsoft Azure
 Advancing hybrid cloud to adaptive cloud with Azure | Microsoft Azure Blog
 15 Most Common Challenges of Cloud Computing [2025 Solutions]
