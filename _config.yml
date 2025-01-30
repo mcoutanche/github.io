@@ -1,7 +1,7 @@
 # Site
 name: "TechKB.onl"
 title: "TechKB"
-description: "Microsoft Azure Technical Knowledge Base"
+description: "Microsoft Azure Blog"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
