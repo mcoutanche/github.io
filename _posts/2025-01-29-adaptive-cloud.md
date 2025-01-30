@@ -26,15 +26,17 @@ Adaptive cloud refers to a cloud computing model that dynamically adjusts resour
 
 ###### Differences Between Traditional, Hybrid, and Adaptive Cloud Models
 
-• Traditional Cloud:
+Traditional Cloud:
 • Static Resource Allocation: Resources are allocated based on predefined configurations, often leading to over-provisioning or under-utilization.
 • Limited Flexibility: Less adaptable to changing workloads and business needs.
 • Manual Management: Requires significant manual intervention for scaling and maintenance.
-• Hybrid Cloud:
+
+Hybrid Cloud:
 • Combination of On-Premises and Cloud: Integrates on-premises infrastructure with public and private cloud resources.
 • Improved Flexibility: Offers more flexibility than traditional cloud by allowing data and applications to move between environments.
 • Complex Management: Requires sophisticated management tools to handle the integration and orchestration of different environments.
-• Adaptive Cloud:
+
+Adaptive Cloud:
 • Dynamic Resource Allocation: Automatically adjusts resources in real-time based on current demands.
 • High Flexibility and Resilience: Adapts to changing workloads and ensures continuous availability.
 • Automated Management: Leverages AI and automation for efficient resource management and optimization.
