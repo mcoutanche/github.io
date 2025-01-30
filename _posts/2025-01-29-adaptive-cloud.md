@@ -66,7 +66,7 @@ Simplified Management: Reduces the need for manual intervention with automated r
 
 
 
-![adaptive]({{ site.baseurl }} /assets/images/2024/Figure-1-Adaptive-Cloud-v2.png){:width="400px" height="400px" style="display: block; margin: 0 auto"}
+![adaptive]({{ site.baseurl }} /assets/images/2024/Figure-1-Adaptive-Cloud-v2.png 'Adaptive cloud works simultaneously across hybrid, multicloud, edge, and IoT environments.'){:width="400px" height="400px" style="display: block; margin: 0 auto"}
 
 # Section 3: Real-World Applications and Use Cases
 
