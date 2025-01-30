@@ -8,7 +8,7 @@ image: assets/images/2024/moved.png
 description: "Introducing my new blog."
 featured: true
 # hidden: true
-rating: 4.5
+# rating: 4.5
 ---
 
 ## Welcome to my new blog about all things Azure
