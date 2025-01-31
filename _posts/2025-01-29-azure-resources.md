@@ -16,6 +16,7 @@ This is the first official article since the relaunch of TechKB.onl. It features
 ##### Learning:
 
 John Savill's Technical Training -  [John Savill Youtube](https://www.youtube.com/@NTFAQGuy){:target="_blank"}
+Azure Charts
 
 ##### Tools:
 
