@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About: Michael Coutanche
+title: About
 permalink: /about
 comments: true
 ---
