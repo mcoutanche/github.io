@@ -6,7 +6,7 @@ categories: [ Microsoft, Azure ]
 # tags: [ARC, AI, AKS]
 image: assets/images/8.jpg
 # description: "My review of Inception movie. Acting, plot and something else in this short description."
-featured: true
+# featured: true
 # hidden: true
 rating: 4.0
 ---
