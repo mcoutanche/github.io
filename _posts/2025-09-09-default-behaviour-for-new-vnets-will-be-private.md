@@ -7,7 +7,7 @@ categories: [ Microsoft, Azure ]
 tags: [Azure, Networking, Security, Cloud Architecture]
 image: assets/images/1.jpg
 description: "My review of Inception movie. Acting, plot and something else in this short description."
-# featured: true
+featured: true
 # hidden: true
 rating: 4.5
 ---

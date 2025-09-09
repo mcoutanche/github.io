@@ -6,7 +6,7 @@ categories: [ Microsoft, Azure ]
 tags: [ARC, AI, AKS]
 image: assets/images/2024/moved.png
 description: "Introducing my new blog."
-featured: true
+# featured: true
 # hidden: true
 # rating: 4.5
 ---
