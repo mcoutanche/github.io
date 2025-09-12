@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Azure Virtual Networks Will Be Private by Default Starting March 2026"
+title:  "Default Internet Access Is Retiring"
 author: michael
 date: 2025-09-09
 categories: [ Microsoft, Azure ]
