@@ -14,7 +14,7 @@ rating: 4.5
 
 # 🚪 Azure’s Default Internet Access Is Retiring — What You Need to Know
 
-If you've been spinning up virtual machines in Azure and relying on default outbound internet access, it's time to rethink your setup. Microsoft has announced that starting **September 30, 2025**, newly created VMs will **no longer have internet access by default**.
+If you've been spinning up virtual machines in Azure and relying on default outbound internet access, it's time to rethink your setup. Microsoft orignially announced that starting **September 30, 2025**, newly created VMs will **no longer have internet access by default** this has now been pushed back to **March 31, 2026**
 
 That’s right—no more silent outbound connectivity unless you explicitly configure it.
 
