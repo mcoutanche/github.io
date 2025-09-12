@@ -4,7 +4,7 @@ title: 'Top five Reasons why to use watsonx Orchestrate Agents'
 date: 2025-07-31 01:05:00 +0100
 author: 'Niklas Heidloff'
 layout: post
-guid: 'heidloff.net/nh-142'
+guid: 'techkb.onl/nh-142'
 permalink: /article/five-reasons-why-watsonx-orchestrate/
 custom_permalink:
     - article/five-reasons-why-watsonx-orchestrate/
