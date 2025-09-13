@@ -43,7 +43,7 @@ social:
     - https://github.com/mcoutanche # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/michaelcoutanche
 
 # Site Verification Settings
 webmaster_verifications:
@@ -99,7 +99,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://media.licdn.com/dms/image/v2/D4E03AQFuScXLduhF9g/profile-displayphoto-shrink_200_200/B4EZOb15EeH0AY-/0/1733486416622?e=2147483647&v=beta&t=Ekwt37GlLtNmbKIYrNSrclYVeF6YaiGI7miwY8hf6cs
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
