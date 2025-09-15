@@ -1,7 +1,7 @@
 ---
 id: 2
 title: 'Default Outbound Access Retirement!'
-date: '2025-09-16T00:00:00+00:00'
+date: '2025-09-15T00:00:00+00:00'
 author: 'Michael Coutanche'
 layout: post
 # guid: 'http://s600643527.online.de/article/welcome-to-my-new-blog/'

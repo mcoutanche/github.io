@@ -1,7 +1,7 @@
 ---
 id: 1
 title: 'Welcome to my new blog!'
-date: '2025-09-15T00:00:00+00:00'
+date: '2025-09-14T00:00:00+00:00'
 author: 'Niklas Heidloff'
 layout: post
 # guid: 'http://s600643527.online.de/article/welcome-to-my-new-blog/'
