@@ -4,9 +4,9 @@ icon: fas fa-video
 order: 4
 ---
 
-Below are a couple of demos, teasers and conference talks. There are more on my [YouTube](https://www.youtube.com/nheidloff) channel.
+Below are a couple of Azure related technical training videos from John Savill's Technical Training YouTube channel. Just left here as an example of what could be on thins page. John Savill's Technical Training [YouTube](https://www.youtube.com/@NTFAQGuy) channel.
 
-## Application Modernization and Rabbits
+## John Savill's Technical Training - NEW File Shares Resource Types
 
-{% include embed/youtube.html id='9bfnMXRx4e0' %}
+{% include embed/youtube.html id='T5eKHDwZe3M' %}
 
