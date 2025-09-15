@@ -11,8 +11,9 @@ layout:
 tabs:
   # format: <filename_without_extension>: <value>
   archives: Blog Archives
-  bathusergroup: Bath User Group
-  opensource: Open Source
+  aboutme: About Me
+  # bathusergroup: Bath User Group
+  # opensource: Open Source
   home: Home
 
 # the text displayed in the search bar & search results
