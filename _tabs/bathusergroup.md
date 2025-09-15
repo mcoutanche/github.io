@@ -1,7 +1,7 @@
 ---
 layout: page
 icon: fas fa-video
-order: 4
+order: 2
 ---
 
 Below are a couple of demos, teasers and conference talks. There are more on my [YouTube](https://www.youtube.com/nheidloff) channel.

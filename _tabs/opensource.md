@@ -1,7 +1,7 @@
 ---
 layout: page
 icon: fas fa-code
-order: 2
+order: 3
 ---
 
 Below are a couple of open source projects I have contributed to. There are more in my [GitHub](https://github.com/nheidloff) organization.
