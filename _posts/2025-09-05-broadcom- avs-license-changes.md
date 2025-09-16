@@ -1,5 +1,5 @@
 ---
-id: 1
+id: 2
 title: 'What Azure VMware Solution Cusotmers Need to know about the '
 date: '2025-09-05T00:00:00+00:00'
 author: 'Niklas Heidloff'
