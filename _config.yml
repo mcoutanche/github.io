@@ -22,7 +22,7 @@ timezone: Europe/London
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
-title: Michael Coutanche
+# title: Michael Coutanche
 
 # tagline: "<div>Welcome to my blog!</div><div style='padding-bottom: 10px;'></div><div>I'm an IT professional focussing on artificial intelligence, development and advocacy.</div><div style='padding-bottom: 10px;'></div><div>Recently I've worked on Generative AI, Kubernetes, Open Source, Java and DevOps at IBM.</div><div style='padding-bottom: 10px;'></div><div>I'm a proud father of five and love building things - software as well as outdoor areas.</div>"
 
