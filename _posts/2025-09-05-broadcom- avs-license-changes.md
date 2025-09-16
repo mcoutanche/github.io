@@ -1,7 +1,7 @@
 ---
 id: 1
-title: 'Welcome to my new blog!'
-date: '2025-09-14T00:00:00+00:00'
+title: 'What Azure VMware Solution Cusotmers Need to know about the '
+date: '2025-09-05T00:00:00+00:00'
 author: 'Niklas Heidloff'
 layout: post
 # guid: 'http://s600643527.online.de/article/welcome-to-my-new-blog/'
@@ -15,6 +15,9 @@ layout: post
 categories:
     - Articles
 ---
+
+https://techcommunity.microsoft.com/blog/azuremigrationblog/broadcom-vmware-licensing-changes-what-azure-vmware-solution-customers-need-to-k/4448784
+
 
 Hello everyone,
 
