@@ -14,7 +14,8 @@ tabs:
   aboutme: About Me
   # bathusergroup: Bath User Group
   # opensource: Open Source
-  home: Home
+  home: 
+  resources: Cloud Resources
 
 # the text displayed in the search bar & search results
 search:

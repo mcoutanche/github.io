@@ -1,10 +1,11 @@
 ---
 layout: page
 icon: fas fa-code
-order: 3
+order: 2
 ---
 
-My name is Michael Coutanche, I am an Azure Pratcie Lead working for Cloud Direct, a Microsoft Partners partner based in the UK. 
+Working list of cloud resources:
+
 
 Cloud Direct's Youtube channel can be found here [YouTube](https://www.youtube.com/@CloudDirectUK).
 
