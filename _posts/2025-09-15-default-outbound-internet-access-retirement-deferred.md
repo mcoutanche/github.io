@@ -1,6 +1,6 @@
 ---
 id: 2
-title: 'Default Outbound Access Retirement!'
+title: 'Default Outbound Interent Access Retirement now deferred to March 2025'
 date: '2025-09-15T00:00:00+00:00'
 author: 'Michael Coutanche'
 layout: post
