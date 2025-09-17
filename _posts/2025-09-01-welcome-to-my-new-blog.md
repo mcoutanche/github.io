@@ -16,10 +16,27 @@ categories:
     - Articles
 ---
 
-Hello everyone,
+🚀 Welcome to My New Azure Technical Blog
+Hey everyone,
 
-as some of you might know I haven’t published any entries in the [composite applications blog](http://www.ibm.com/developerworks/blogs/page/CompApps) for a long time. I’ve been too busy with work and there have been some issues with the old blog.
+If you've stumbled across this post—welcome! Whether you’ve followed my work before or just landed here by accident (thanks, search engine magic), I’m glad you’re here.
 
-Now however I have some time again and want to write about some exciting things I’ve worked on recently. I use now the Lotus Notes/Domino blog template which gives me a much better editor than previously and I don’t have the 24 MB quota anymore.
+Some of you might remember my old blog, where I shared bits and pieces from my journey through the Microsoft tech stack. It’s been a while since I posted anything there—life, work, and the occasional blog platform meltdown got in the way. But now, I’m back with a fresh space, a better setup, and a renewed focus.
 
-My goal is to at least publish one entry in the blog per week. I want to write about composite applications (big surprise) but also about other Notes, Domino and Expeditor application development topics. I hope that many people will read my blog and we will have interesting discussions here.
+This blog is all about Microsoft Azure and the wider ecosystem of technologies that have shaped my career—from the NT4 days (yes, really) through Hyper-V, RDP, domain services, and now deep into the cloud with Azure. I’m currently working as an Azure Practice Lead at Cloud Direct, a UK-based Microsoft partner, and I’ve had the privilege of helping businesses modernize, scale, and thrive using Azure’s ever-evolving capabilities.
+
+🧠 What to expect here:
+
+Weekly posts (that’s the plan!) diving into technical Azure topics, real-world scenarios, and lessons learned
+
+Reflections from my journey in cloud architecture, high availability, networking, and storage optimization
+
+Occasional throwbacks as I migrate content from my old blog—some of it still holds up!
+
+A bit of storytelling, a bit of troubleshooting, and hopefully a lot of useful insights
+
+Whether you're just starting out with Azure or you're neck-deep in designing enterprise-grade solutions, I hope this blog becomes a space where we can learn, share, and maybe even debate a little.
+
+Thanks for stopping by—and if you’ve got questions, ideas, or just want to say hello, drop a comment or connect with me. Let’s make this a conversation, not just a monologue.
+
+Here’s to the next chapter! —Michael
