@@ -26,13 +26,13 @@ This blog is all about Microsoft Azure and the wider ecosystem of technologies t
 
 🧠 What to expect here:
 
-> - Weekly posts (that’s the plan!) diving into technical Azure topics, real-world scenarios, and lessons learned
+- Weekly posts (that’s the plan!) diving into technical Azure topics, real-world scenarios, and lessons learned
 
-> - Reflections from my journey in cloud architecture, high availability, networking, and storage optimization
+- Reflections from my journey in cloud architecture, high availability, networking, and storage optimization
 
-> - Occasional throwbacks as I migrate content from my old blog—some of it still holds up!
+- Occasional throwbacks as I migrate content from my old blog—some of it still holds up!
 
-> - A bit of storytelling, a bit of troubleshooting, and hopefully a lot of useful insights
+- A bit of storytelling, a bit of troubleshooting, and hopefully a lot of useful insights
 
 Whether you're just starting out with Azure or you're neck-deep in designing enterprise-grade solutions, I hope this blog becomes a space where we can learn, share, and maybe even debate a little.
 
