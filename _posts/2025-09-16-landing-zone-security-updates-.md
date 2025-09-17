@@ -1,7 +1,7 @@
 ---
 id: 4
 title: 'Default Outbound Interent Access Retirement now deferred to March 2026'
-date: '2025-09-11T00:00:00+00:00'
+date: '2025-09-16T00:00:00+00:00'
 author: 'Michael Coutanche'
 layout: post
 # guid: 'http://s600643527.online.de/article/welcome-to-my-new-blog/'
