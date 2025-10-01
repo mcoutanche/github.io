@@ -12,6 +12,7 @@ Working list of cloud resources:
 - <a href="https://www.thomasmaurer.ch/)" target="_blank">Thomas Maurer</a> - Blog covering Azure, hybrid cloud, multicloud, edge, and sovereign cloud platform.
 - <a href="https://azure.microsoft.com/en-us/blog/)" target="_blank">Microsoft Azure Blog</a> - Keep an eye on updates to Azure Management and Goverance, to innovation with AI and ML.
 
+this is a placeholder and is to be continued …..
 
 <!-- 
 
