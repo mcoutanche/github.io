@@ -6,7 +6,7 @@ order: 3
 
 ## About me
 
-My name is Michael Coutanche, I am the Practice Lead for Azure at Cloud Direct, a top 1% Microsoft Partner and Azure Expert MSP based in the UK. 
+My name is Michael Coutanche, I am the Practice Lead for Azure at Cloud Direct, a leading Microsoft Partner and Azure Expert MSP based in the UK. 
 
 <img src="{{ site.baseurl }}/assets/img/bar.jpeg" alt="img-microsoft-michael">
 
