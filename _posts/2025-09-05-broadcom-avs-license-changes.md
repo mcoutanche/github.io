@@ -48,7 +48,7 @@ Broadcom’s strategy is to simplify and streamline VMware’s portfolio, focusi
 
 If you have existing Reserved Instances, you’re protected until your RI term ends. Consider extending your RI term before October 15, 2025, to lock in current pricing and licensing models. After this date, all new purchases require BYOL.
 
-## Infrastructure Optimisation Matters
+## Optimisation Matters
 
 With licensing now tied to per-core usage, optimising your AVS infrastructure is more critical than ever. Overprovisioned or inefficent storage can drive oversised solution footprint, in tuen inflating licensing costs. Third party vendors like NetApp offer solutions for AVS that can help drive efficiency, reduce footprint and overall costs.
 
