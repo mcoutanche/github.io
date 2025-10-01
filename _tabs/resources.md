@@ -8,7 +8,7 @@ Working list of cloud resources:
 
 
 - <a href="https://azurecharts.com/" target="_blank">Azure Charts</a> - Live visual exploration environment for Azure Cloud + ecosystem.
-- <a href="https://azure.microsoft.com/en-us/blog/)" target="_blank"></a> - Microsoft Azure Blog - Keep an eye on updates to Azure Management and Goverance, to innovation with AI and M.
+- <a href="https://azure.microsoft.com/en-us/blog/)" target="_blank">Microsoft Azure Blog</a> - Keep an eye on updates to Azure Management and Goverance, to innovation with AI and M.
 
 
 <!-- 
