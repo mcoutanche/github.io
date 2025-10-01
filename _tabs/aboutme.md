@@ -2,6 +2,7 @@
 layout: page
 icon: fas fa-code
 order: 3
+title: ""
 ---
 <img src="{{ site.baseurl }}/assets/img/bar.jpeg" alt="img-microsoft-michael">
 
