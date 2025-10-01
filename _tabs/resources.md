@@ -7,6 +7,8 @@ order: 2
 Working list of cloud resources:
 
 
+- <a href="https://azurecharts.com/" target="_blank">Azure Charts</a> - Live visual exploration environment for Azure Cloud + ecosystem 
+
 - [Azure Charts](https://azurecharts.com/) - Live visual exploration environment for Azure Cloud + ecosystem 
 - [Microsoft Azure Blog](https://azure.microsoft.com/en-us/blog/) - Keep an eye on updates to Azure Management and Goverance, to innovation with AI and M.
 
