@@ -3,6 +3,7 @@ layout: page
 icon: fas fa-code
 order: 3
 ---
+<img src="{{ site.baseurl }}/assets/img/bar.jpeg" alt="img-microsoft-michael">
 
 My name is Michael Coutanche, I am an Azure Pratcie Lead working for Cloud Direct, a Microsoft Partners partner based in the UK. 
 
