@@ -7,9 +7,11 @@ order: 2
 Working list of cloud resources:
 
 
-[## Azure Charts](https://azurecharts.com/)
+[## Azure Charts](https://azurecharts.com/) Cloud Direct's Youtube channel can be found here 
+[## Microsoft Azrure Blog](https://azurecharts.com/) Cloud Direct's Youtube channel can be found here 
 
-Cloud Direct's Youtube channel can be found here 
+
+
 
 
 <!-- 
