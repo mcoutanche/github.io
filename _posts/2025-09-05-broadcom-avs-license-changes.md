@@ -50,7 +50,7 @@ If you have existing Reserved Instances, you’re protected until your RI term e
 
 ## Storage Optimisation Matters
 
-With licensing now tied to per-core usage, optimizing your AVS infrastructure—especially storage—is more critical than ever. Overprovisioned storage can inflate licensing costs. Solutions like Pure Cloud Block Store for AVS can help drive efficiency and reduce your footprint.
+With licensing now tied to per-core usage, optimising your AVS infrastructure is more critical than ever. Overprovisioned or inefficent storage can drive oversised solution footprint, in tuen inflating licensing costs. Third party vendors like NetApp offer solutions for AVS that can help drive efficiency, reduce footprint and overall costs.
 
 ---
 
@@ -98,6 +98,6 @@ A: Review your infrastructure for overprovisioned storage and compute. Optimize 
 - [Microsoft Learn: How to purchase Azure VMware Solution RI](https://learn.microsoft.com/en-us/azure/azure-vmware/reserved-instance)
 - [Azure Docs: Use Portable VCF on AVS](https://learn.microsoft.com/en-us/azure/azure-vmware/vmware-cloud-foundations-license-portability)
 - [Broadcom Blog: VCF Licensing Changes](https://blogs.vmware.com/cloud-foundation/2025/08/29/vmware-cloud-foundation-cloud-on-your-terms/)
-- [Pure Storage: Navigating Broadcom's VCF Licensing Changes](https://blog.purestorage.com/perspectives/broadcoms-vcf-licensing-shift-avs-customers/)
+- [NetApp: NetApp Capabilities for Azure AVS](https://docs.netapp.com/us-en/netapp-solutions-cloud/vmware/vmw-azure-avs-overview.html#config)
 
 ---
