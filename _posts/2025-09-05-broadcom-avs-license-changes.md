@@ -59,8 +59,8 @@ With licensing now tied to per-core usage, optimising your AVS infrastructure is
 1. **Assess Your Current Environment:** Inventory all AVS nodes and determine which use bundled licenses, PayGo, or Reserved Instances.
 2. **Evaluate Reserved Instances:** Take advantage of existing RI terms and plan future purchases carefully. Extend RI terms before October 15, 2025, if possible.
 3. **Plan for License Portability:** Ensure you have a Broadcom contract or channel partner relationship to purchase VCF licenses.
-4. **Optimise Infrastructure:** Review storage and compute allocations to minimize licensing costs. Consider consolidating workloads or leveraging storage solutions like NetApp Files or Pure Cloud Block Store.
-5. **Test Compatibility:** Before deploying new nodes, verify your VCF subscription covers all required cores and add-ons (e.g., vDefend Firewall).
+4. **Optimise Infrastructure:** Review storage and compute allocations to minimise licensing costs. Consider consolidating workloads or leveraging storage solutions like NetApp Files or Pure Cloud Block Store.
+5. **Test Compatibility:** Before deploying new nodes, verify your VCF subscription covers all required cores and add-ons (e.g. vDefend Firewall).
 6. **Leverage Azure Migrate:** Use Azure Migrate and related tools to benchmark TCO and streamline migration to AVS or Azure Native services.
 7. **Engage Stakeholders:** Communicate changes to IT, procurement, and finance teams to ensure compliance and budget planning.
 8. **Monitor Updates:** Stay informed via Microsoft Tech Community and Broadcom announcements for any further changes or guidance.
