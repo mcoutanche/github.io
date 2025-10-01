@@ -7,8 +7,8 @@ order: 2
 Working list of cloud resources:
 
 
-- [Azure Charts](https://azurecharts.com/) Cloud Direct's Youtube channel can be found here 
-- [Microsoft Azrure Blog](https://azure.microsoft.com/en-us/blog/) Cloud Direct's Youtube channel can be found here 
+- [Azure Charts](https://azurecharts.com/) - Live visual exploration environment for Azure Cloud + ecosystem 
+- [Microsoft Azure Blog](https://azure.microsoft.com/en-us/blog/) - Keep an eye on updates to Azure Management and Goverance, to innovation with AI and M.
 
 
 
