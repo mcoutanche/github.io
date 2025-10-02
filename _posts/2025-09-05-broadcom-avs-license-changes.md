@@ -15,7 +15,7 @@ The cloud landscape is shifting rapidly, and nowhere is this more evident than i
 
 ## What’s Changing?
 
-Broadcom is moving all hyperscaler platforms, including Azure VMware Solution, to a **“bring your own” portable subscription** model for VMware Cloud Foundation (VCF):
+Broadcom is moving all hyperscaler platforms, including Azure VMware Solution, to a “bring your own” portable subscription model for VMware Cloud Foundation (VCF):
 
 - **Customers must purchase portable VCF subscriptions directly from Broadcom or its authorised channel partners.**
 - Microsoft will no longer bundle VCF licenses with AVS node purchases after October 15, 2025.
