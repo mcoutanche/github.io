@@ -17,7 +17,7 @@ The cloud landscape is shifting rapidly, and nowhere is this more evident than i
 
 Broadcom is moving all hyperscaler platforms, including Azure VMware Solution, to a “bring your own” portable subscription model for VMware Cloud Foundation (VCF):
 
-- **Customers must purchase portable VCF subscriptions directly from Broadcom or its authorised channel partners.**
+- Customers must purchase portable VCF subscriptions directly from Broadcom or its authorised channel partners.
 - Microsoft will no longer bundle VCF licenses with AVS node purchases after October 15, 2025.
 - Existing AVS Reserved Instances (RIs) purchased on or before October 15, 2025, will remain valid until the end of their term.
 - PayGo nodes with license included can continue to operate until October 31, 2026, after which a BYOL model is mandatory.
