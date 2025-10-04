@@ -13,7 +13,7 @@ image:
   height: 400
 ---
 
-## TTHIS POST IS A PLACEHOLDER AND NOT A PROPER POST
+## THIS POST IS A PLACEHOLDER AND NOT A PROPER POST
 
 
 Microsoft recently rolled out some significant updates to the [Cloud Adoption Framework (CAF)](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/) — and if you're hosting workloads in Azure, it's time to take notice.
