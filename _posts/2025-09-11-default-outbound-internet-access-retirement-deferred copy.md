@@ -6,7 +6,6 @@ author: 'Michael Coutanche'
 layout: post
 categories: [Azure, Networking]
 tags: [Cloud Adoption Framework, Governance, Security, VNet, NAT Gateway]
-
 categories:
     - Articles
 ---
