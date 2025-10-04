@@ -10,6 +10,8 @@ categories:
     - Articles
 ---
 
+## TTHIS POST IS A PLACEHOLDER AND NOT A PROPER POST 
+
 > ⚠️ **Heads-up for Azure architects and engineers:**  
 > Microsoft is retiring default outbound internet access for VMs and Virtual Networks. This post breaks down what’s changing, why it matters, and what you need to do to stay connected and compliant.
 

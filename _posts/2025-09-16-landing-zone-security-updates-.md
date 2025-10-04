@@ -1,6 +1,6 @@
 ---
 id: 4
-title: "CAF Just Got Sharper: What the Latest Updates Mean for Azure Workloads"
+title: "What the Latest Updates to the CAF mean for Azure Workloads"
 date: '2025-09-16T00:00:00+00:00'
 author: 'Michael Coutanche'
 layout: post
@@ -12,6 +12,8 @@ image:
   width: 800
   height: 400
 ---
+
+## TTHIS POST IS A PLACEHOLDER AND NOT A PROPER POST 
 
 Microsoft recently rolled out some significant updates to the [Cloud Adoption Framework (CAF)](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/) — and if you're hosting workloads in Azure, it's time to take notice.
 
