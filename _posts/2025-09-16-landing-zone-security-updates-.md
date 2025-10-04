@@ -7,13 +7,14 @@ layout: post
 categories: [Azure]
 tags: [CAF, Security, Landing Zones, Governance, Cloud Adoption Framework]
 image:
-  path: /assets/img/caf-security-landing-zone.png
+  path: /assets/img/2025/10/security-landingzone-updates-001.png
   alt: "Azure Cloud Adoption Framework Security Landing Zone"
   width: 800
   height: 400
 ---
 
-## TTHIS POST IS A PLACEHOLDER AND NOT A PROPER POST 
+## TTHIS POST IS A PLACEHOLDER AND NOT A PROPER POST
+
 
 Microsoft recently rolled out some significant updates to the [Cloud Adoption Framework (CAF)](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/) — and if you're hosting workloads in Azure, it's time to take notice.
 
