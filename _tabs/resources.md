@@ -8,9 +8,9 @@ Working list of cloud resources:
 
 
 - <a href="https://azurecharts.com/" target="_blank">Azure Charts</a> - Live visual exploration environment for Azure Cloud + ecosystem.
-- <a href="https://azure.status.microsoft/en-us/status/)" target="_blank">Azure status</a> - Check the current Azure health status and view past incidents.
-- <a href="https://www.thomasmaurer.ch/)" target="_blank">Thomas Maurer</a> - Blog covering Azure, hybrid cloud, multicloud, edge, and sovereign cloud platform.
-- <a href="https://azure.microsoft.com/en-us/blog/)" target="_blank">Microsoft Azure Blog</a> - Keep an eye on updates to Azure Management and Goverance, to innovation with AI and ML.
+- <a href="https://azure.status.microsoft/en-us/status/" target="_blank">Azure status</a> - Check the current Azure health status and view past incidents.
+- <a href="https://www.thomasmaurer.ch/" target="_blank">Thomas Maurer</a> - Blog covering Azure, hybrid cloud, multicloud, edge, and sovereign cloud platform.
+- <a href="https://azure.microsoft.com/en-us/blog/" target="_blank">Microsoft Azure Blog</a> - Keep an eye on updates to Azure Management and Goverance, to innovation with AI and ML.
 
 this is a placeholder and is to be continued …..
 
