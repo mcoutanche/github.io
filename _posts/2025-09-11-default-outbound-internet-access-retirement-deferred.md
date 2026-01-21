@@ -1,5 +1,5 @@
 ---
-id: 4
+id: 3
 title: "Azure Networking Change: Default Outbound Internet Access Is Going Away"
 date: '2025-09-11T00:00:00+00:00'
 author: 'Michael Coutanche'

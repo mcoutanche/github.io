@@ -1,5 +1,5 @@
 ---
-id: 3
+id: 2
 title: 'Broadcom VMware Licensing Changes: What Azure VMware Solution Customers Need to Know'
 date: '2025-09-05T00:00:00+00:00'
 author: 'Michael Coutanche'
