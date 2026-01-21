@@ -1,5 +1,5 @@
 ---
-id: 4
+id: 5
 title: "What the Latest Updates to the CAF mean for Azure Workloads"
 date: '2025-09-16T00:00:00+00:00'
 author: 'Michael Coutanche'
