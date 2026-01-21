@@ -3,7 +3,6 @@ layout: page
 icon: fas fa-code
 order: 3
 ---
-
 <img src="{{ site.baseurl }}/assets/img/aboutme.jpeg" alt="img-microsoft-michael">
 
 I’m Michael Coutanche, Practice Lead for Cloud & AI Platforms at Cloud Direct, a leading Microsoft Partner and Azure Expert MSP based in the UK. I help organisations design, build, and evolve modern cloud and AI‑enabled platforms on Microsoft Azure, with a strong focus on modernisation, innovation, and secure‑by‑design foundations that support scale, resilience, and continuous change.
