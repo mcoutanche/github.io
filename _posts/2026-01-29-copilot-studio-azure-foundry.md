@@ -43,28 +43,28 @@ Azure AI Foundry is a developer-first, code-centric platform for building sophis
 
 Audience & Skills
 
-Copilot Studio: Low‑code creators, IT admins, business users. [techcommun...rosoft.com]
-Azure AI Foundry: Developers, AI engineers, data scientists. [azurelessons.com]
+Copilot Studio: Low‑code creators, IT admins, business users.
+Azure AI Foundry: Developers, AI engineers, data scientists.
 
 Platform Model
 
-Copilot Studio: SaaS, Microsoft manages everything. [techcommun...rosoft.com]
-Azure AI Foundry: PaaS, you manage cloud services. [techcommun...rosoft.com]
+Copilot Studio: SaaS, Microsoft manages everything.
+Azure AI Foundry: PaaS, you manage cloud services.
 
 Complexity Level
 
-Copilot Studio: Optimized for quick, straightforward conversational agents. [azurelessons.com]
-Azure AI Foundry: Ideal for complex, highly customized AI solutions. [azurelessons.com]
+Copilot Studio: Optimized for quick, straightforward conversational agents.
+Azure AI Foundry: Ideal for complex, highly customized AI solutions.
 
 Integration Depth
 
-Copilot Studio: Tight integration with Microsoft 365 and Power Platform. [dev.to]
-Azure AI Foundry: Deep integration across Azure data, networking, compute, and DevOps. [dev.to]
+Copilot Studio: Tight integration with Microsoft 365 and Power Platform.
+Azure AI Foundry: Deep integration across Azure data, networking, compute, and DevOps.
 
 Customization
 
-Copilot Studio: Template-driven, configuration-focused. [azurelessons.com]
-Azure AI Foundry: Extensive model customization, fine-tuning, and orchestration. [azurelessons.com]
+Copilot Studio: Template-driven, configuration-focused.
+Azure AI Foundry: Extensive model customization, fine-tuning, and orchestration. 
 
 
 ## When Should You Use Copilot Studio? Best Use Cases
@@ -84,10 +84,10 @@ Fast time-to-value, strong governance, low skill barrier, and native collaborati
 Azure AI Foundry excels in enterprise‑grade, custom, or deeply integrated AI projects where development teams require maximum control.
 Best for:
 
-Domain-specific AI models with fine-tuning (e.g., financial, medical, manufacturing). [azurelessons.com]
+Domain-specific AI models with fine-tuning (e.g., financial, medical, manufacturing).
 Sophisticated multi-agent systems and orchestration.
-RAG applications over large unstructured datasets (Azure Search, vector DBs). [dev.to]
-Enterprise apps needing private networking, VNet isolation, or custom APIs. [dev.to]
+RAG applications over large unstructured datasets (Azure Search, vector DBs).
+Enterprise apps needing private networking, VNet isolation, or custom APIs. 
 High-performance, scalable AI solutions running on AKS, containers, or custom infrastructure.
 
 Why choose it:
@@ -98,9 +98,9 @@ Many organizations use Copilot Studio + Azure AI Foundry together, depending on 
 
 Build front-end conversational UX in Copilot Studio.
 Implement complex back-end reasoning, data pipelines, or custom tools in Azure AI Foundry.
-Connect them using API plugins, MCP servers, or Azure Functions. [cloudfronts.com]
+Connect them using API plugins, MCP servers, or Azure Functions.
 
-Microsoft explicitly states the platforms “work together beautifully.” [techcommun...rosoft.com]
+Microsoft explicitly states the platforms “work together beautifully.” 
 
 ## Choosing the Right Platform: A Simple Decision Guide
 
