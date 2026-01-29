@@ -71,7 +71,7 @@ Azure Foundary is Microsoft’s secure, flexible platform for designing, customi
 - Azure AI Foundry: Extensive model customization, fine-tuning, and orchestration. 
 
 
-## When Should You Use Copilot Studio? Best Use Cases
+## When Should You Use Copilot Studio?
 Copilot Studio shines when business users need to build solutions quickly with minimal code, especially where Microsoft 365 data is central.
 
 ###### Best for:
@@ -84,7 +84,7 @@ Copilot Studio shines when business users need to build solutions quickly with m
 
 **Why choose it:** Fast time-to-value, strong governance, low skill barrier, and native collaboration within Microsoft 365. 
 
-## When Should You Use Azure AI Foundry? Best Use Cases
+## When Should You Use Azure AI Foundry? 
 Azure AI Foundry excels in enterprise‑grade, custom, or deeply integrated AI projects where development teams require maximum control.
 
 ###### Best for:
@@ -97,8 +97,8 @@ Azure AI Foundry excels in enterprise‑grade, custom, or deeply integrated AI p
 
 **Why choose it:** Full control, maximum extensibility, and tooling for developers and data scientists.
 
-## Can You Combine Both? (Yes—and Many Organizations Do)
-Many organizations use Copilot Studio + Azure AI Foundry together, depending on project needs:
+## Can You Combine Both?
+In short, yes. Many organisations use Copilot Studio + Azure AI Foundry together, depending on project needs:
 
 - Build front-end conversational UX in Copilot Studio.
 - Implement complex back-end reasoning, data pipelines, or custom tools in Azure AI Foundry.
