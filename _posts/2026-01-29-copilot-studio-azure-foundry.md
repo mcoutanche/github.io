@@ -7,9 +7,14 @@ layout: post
 categories:
     - Articles
 ---
-As AI agents rapidly evolve from simple chatbots to fully capable digital workers, Microsoft now provides two complementary platforms for building them: Microsoft Copilot Studio and Azure AI Foundry. Both are powerful, both build copilots and agents, and both fit within Microsoft’s AI ecosystem, but they are built for different users, scenarios, and levels of complexity.
 
-If you’re deciding where to start (or when to use both), hopefully, this article may help explain the differences, strengths, and best use cases across each platform.
+The more conversations I have with customers about AI, the more often the same question comes up: 
+
+>Should we be using Copilot Studio or Azure AI Foundry?
+
+As AI agents continue to evolve—from simple chatbots to fully capable digital workers—Microsoft now offers two complementary platforms for building them: Microsoft Copilot Studio and Azure AI Foundry. Both are powerful, both support the creation of copilots and intelligent agents, and both sit firmly within Microsoft’s broader AI ecosystem, but they are built for different users, scenarios, and levels of complexity.
+
+If you're trying to decide where to begin, or whether a combination of both platforms is the right approach, this article aims to clarify the key differences, strengths, and best‑fit scenarios for each.
 
 ## What Is Copilot Studio?
 Microsoft Copilot Studio is a low‑code, SaaS-based platform designed for business teams, IT admins, and “pro‑makers” who want to build AI agents quickly with minimal development overhead. It offers a visual canvas for conversation design, automation, connectors, and publishing directly into Microsoft 365 experiences.
