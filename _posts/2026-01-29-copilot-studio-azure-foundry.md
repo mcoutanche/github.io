@@ -25,7 +25,10 @@ Microsoft Copilot Studio is a low‑code, SaaS-based platform designed for busin
 
 
 ## What Is Azure AI Foundry (formerly Azure AI Studio / Microsoft Foundry)?
-Azure AI Foundry is a developer-first, code-centric platform for building sophisticated AI applications, scalable agents, and domain-specific solutions using Azure’s full cloud ecosystem.
+
+Azure Foundary is Microsoft’s secure, flexible platform for designing, customising, and managing AI apps and agents. It's a developer-first, code-centric platform for building sophisticated AI applications, scalable agents, and domain-specific solutions using Azure’s full cloud ecosystem.
+
+<img src="{{ site.baseurl }}/assets/img/2026/01/2026-01-29-image-002.png" alt="Azure AI Foundary">
 
 # Key facts:
 
