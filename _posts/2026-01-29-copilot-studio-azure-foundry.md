@@ -50,6 +50,7 @@ Azure Foundary is Microsoft’s secure, flexible platform for designing, customi
 
 <img src="{{ site.baseurl }}/assets/img/2026/01/2026-01-29-image-003.jpg" alt="Comparison">
 
+<!-->
 **Audience & Skills**
 - Copilot Studio: Low‑code creators, IT admins, business users.
 - Azure AI Foundry: Developers, AI engineers, data scientists.
@@ -73,6 +74,8 @@ Azure Foundary is Microsoft’s secure, flexible platform for designing, customi
 
 ## When Should You Use Copilot Studio?
 Copilot Studio shines when business users need to build solutions quickly with minimal code, especially where Microsoft 365 data is central.
+
+-->
 
 **Best for:**
 
