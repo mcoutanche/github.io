@@ -15,24 +15,25 @@ Microsoft Copilot Studio is a low‑code, SaaS-based platform designed for busin
 
 <img src="{{ site.baseurl }}/assets/img/2026/01/2026-01-29-image-001.webp" alt="Copilot Studio architecture">
 
-Key facts:
+# Key facts:
 
-Built for business domain experts and IT pros, not developers. [techcommun...rosoft.com]
-Delivered as fully managed SaaS with no infrastructure to maintain. [techcommun...rosoft.com]
-Provides native integration with Microsoft 365, Graph, SharePoint, Power Platform, and Dataverse. [dev.to]
-Includes enterprise-grade compliance like Entra ID SSO, DLP, Purview, and governance controls. [dev.to]
-Publishes to channels including Teams, Outlook, and web apps. [dev.to]
+- Built for business domain experts and IT pros, not developers.
+- Delivered as fully managed SaaS with no infrastructure to maintain.
+- Provides native integration with Microsoft 365, Graph, SharePoint, Power Platform, and Dataverse.
+- Includes enterprise-grade compliance like Entra ID SSO, DLP, Purview, and governance controls.
+- Publishes to channels including Teams, Outlook, and web apps.
 
 
 ## What Is Azure AI Foundry (formerly Azure AI Studio / Microsoft Foundry)?
 Azure AI Foundry is a developer-first, code-centric platform for building sophisticated AI applications, scalable agents, and domain-specific solutions using Azure’s full cloud ecosystem.
-Key facts:
 
-Built for professional developers, software engineers, and data scientists. [techcommun...rosoft.com]
-Runs in your own Azure subscription, offering full control of compute, networking, storage, and data residency. [techcommun...rosoft.com]
-Provides access to frontier, open-source, and fine‑tunable models with full RAG stack support. [dev.to]
-Deep integration with Azure services including Blob Storage, Data Lake, Fabric, Cosmos DB, AKS, Functions, Key Vault, and VNet isolation. [dev.to]
-Supports CI/CD, DevOps, MLOps, A/B testing, advanced evaluation, and observability. [dev.to]
+# Key facts:
+
+- Built for professional developers, software engineers, and data scientists.
+- Runs in your own Azure subscription, offering full control of compute, networking, storage, and data residency.
+- Provides access to frontier, open-source, and fine‑tunable models with full RAG stack support.
+- Deep integration with Azure services including Blob Storage, Data Lake, Fabric, Cosmos DB, AKS, Functions, Key Vault, and VNet isolation.
+- Supports CI/CD, DevOps, MLOps, A/B testing, advanced evaluation, and observability. 
 
 
 ## Core Differences at a Glance
