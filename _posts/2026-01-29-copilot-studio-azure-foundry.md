@@ -15,6 +15,9 @@ If you’re deciding where to start (or when to use both), this guide explains t
 
 ## What Is Copilot Studio?
 Microsoft Copilot Studio is a low‑code, SaaS-based platform designed for business teams, IT admins, and “pro‑makers” who want to build AI agents quickly with minimal development overhead. It offers a visual canvas for conversation design, automation, connectors, and publishing directly into Microsoft 365 experiences.
+
+<img src="{{ site.baseurl }}/assets/img/2026/01/2026-01-29-image-001.webp" alt="Copilot Studio architecture">
+
 Key facts:
 
 Built for business domain experts and IT pros, not developers. [techcommun...rosoft.com]
