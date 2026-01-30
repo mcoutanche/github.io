@@ -9,6 +9,8 @@ hidden: true  # Custom variable to hide from lists
 categories:
     - Articles
 ---
+# THIS IS A DRAFT - TEST - UPDATE IMAGES
+
 ## Building Your First AI Agent with Copilot Studio: A Simple, Step‑By‑Step Guide
 
 AI agents are now within reach for every team—not just data scientists. With Microsoft Copilot Studio, you can design, connect, and publish an intelligent agent that answers questions, triggers workflows, and taps your own business data—all without heavy coding.
@@ -111,7 +113,7 @@ Then enable **Generative Answers** on the FAQ topic to ground responses in your 
 - Configure **sensitive topics** and **escalation** to a human agent or helpdesk form.
 - Add a **/feedback** command to capture thumbs‑down and comments.
 
-<img src="{{ site.baseurl }}/assets/img/2026/02/2026-02-13-image-006.jpg" alt="Step 6 – Policy/guardrail panel with examples of allowed vs. routed content">
+<img src="{{ site.baseurl }}/assets/img/2026/02/2026-02-13-image-006.png" alt="Step 6 – Policy/guardrail panel with examples of allowed vs. routed content">
 
 ## Step 7 — Test in the Canvas (10 mins)
 Use the built‑in test pane:
@@ -123,7 +125,7 @@ Use the built‑in test pane:
 
 Iterate on prompts, triggers, and messages until the conversation feels natural.
 
-<img src="{{ site.baseurl }}/assets/img/2026/02/2026-02-13-image-007.jpg" alt="Step 7 – Test chat transcript showing each scenario passing">
+<img src="{{ site.baseurl }}/assets/img/2026/02/2026-02-13-image-007.png" alt="Step 7 – Test chat transcript showing each scenario passing">
 
 ## Step 8 — Publish & Add Channels (5–10 mins)
 
@@ -135,7 +137,7 @@ Iterate on prompts, triggers, and messages until the conversation feels natural.
 
 3. Set permissions and audience.
 
-<img src="{{ site.baseurl }}/assets/img/2026/02/2026-02-13-image-008.jpg" alt="Step 8 – Publish dialog and Teams channel add screen">
+<img src="{{ site.baseurl }}/assets/img/2026/02/2026-02-13-image-008.png" alt="Step 8 – Publish dialog and Teams channel add screen">
 
 ## Step 9 — Monitor & Improve (ongoing)
 Review analytics weekly:
@@ -147,7 +149,7 @@ Review analytics weekly:
 
 Tune sources, add examples, and refine prompts to lift answer quality.
 
-<img src="{{ site.baseurl }}/assets/img/2026/02/2026-02-13-image-009.jpg" alt="Step 9 – Analytics dashboard: usage trends, unhandled queries, satisfaction">
+<img src="{{ site.baseurl }}/assets/img/2026/02/2026-02-13-image-009.png" alt="Step 9 – Analytics dashboard: usage trends, unhandled queries, satisfaction">
 
 ## Copy‑Paste Snippets You Can Reuse
 ### Welcome Prompt (short):
