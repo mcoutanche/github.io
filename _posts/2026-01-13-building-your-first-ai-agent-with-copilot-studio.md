@@ -5,13 +5,13 @@ date: '2026-01-13T00:00:00+00:00'
 author: 'Michael Coutanche'
 layout: post
 hidden: true  # Custom variable to hide from lists  
-# published: false 
+published: false 
 categories:
     - Articles
 ---
 # THIS IS A DRAFT - TEST - UPDATE IMAGES
 
-## Building Your First AI Agent with Copilot Studio: A Simple, Step‑By‑Step Guide
+## A Simple, Step‑By‑Step Guide
 
 AI agents are now within reach for every team—not just data scientists. With Microsoft Copilot Studio, you can design, connect, and publish an intelligent agent that answers questions, triggers workflows, and taps your own business data—all without heavy coding.
 
@@ -197,5 +197,6 @@ Tune sources, add examples, and refine prompts to lift answer quality.
 ## Helpful Resources
 
 - [Microsoft AI Agents Hub](https://adoption.microsoft.com/en-gb/ai-agents/)
-
+- [Microsoft AI Agents Hub](https://adoption.microsoft.com/en-gb/ai-agents/)
+  
 ---
