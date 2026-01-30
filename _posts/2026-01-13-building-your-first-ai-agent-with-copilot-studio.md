@@ -37,7 +37,7 @@ Clarify what your agent will—and won’t—do. For our demo:
 - **Tone:** Helpful, concise, friendly
 - **Guardrails:** Don’t answer outside support topics; route to human if uncertain
 
-<img src="{{ site.baseurl }}/assets/img/2026/02/2026-02-13-image-001.jpg" alt="Step 1 – Goals & scope storyboard (purpose, audience, use cases, guardrails)">
+<img src="{{ site.baseurl }}/assets/img/2026/02/2026-02-13-image-001.png" alt="Step 1 – Goals & scope storyboard (purpose, audience, use cases, guardrails)">
 
 ## Step 2 — Create a New Copilot (3 mins)
 
