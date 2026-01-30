@@ -85,3 +85,7 @@ Run it:
 ```shell
 python simple_agent.py
 ```
+
+You’ve just run your first AI Agent!
+
+<img src="{{ site.baseurl }}/assets/img/2026/02/2026-02-13-image-001.webp" alt="Project Structure">
