@@ -138,10 +138,13 @@ If your organisation is shaping a Copilot or AI agent strategy, understanding wh
 
 ---
 
-## Helpful Resources
+## Helpful Resources  
 
 - [Microsoft Learn: What is Microsoft Foundry?](https://learn.microsoft.com/en-us/azure/ai-foundry/what-is-foundry?view=foundry)
 - [Microsoft Learn: Copilot Studio overview](https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-what-is-copilot-studio)
 - [Microsoft Copilot Studio Resources](https://microsoft.github.io/copilot-studio-resources/)
+
+
+
 
 ---
