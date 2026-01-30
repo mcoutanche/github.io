@@ -57,3 +57,31 @@ Open your terminal and run:
 pip install pyautogen
 ```
 > 💡 AutoGen makes it easy to create multi‑agent systems with tools, memory, and planning.
+
+Step 3: Create Your First Agent
+Create a file called simple_agent.py:
+
+```python
+from autogen import AssistantAgent
+
+assistant = AssistantAgent(
+    name="HelperAgent",
+    system_message="You are a helpful AI agent that provides clear, simple explanations."
+)
+
+question = "How does solar power work?"
+response = assistant.run(question)
+
+print(response)
+``
+```
+This basic agent:
+
+Loads a model
+Receives a user question
+Responds with helpful reasoning
+
+Run it:
+```shell
+python simple_agent.py
+```
