@@ -5,7 +5,7 @@ order: 3
 ---
 <img src="{{ site.baseurl }}/assets/img/aboutme.jpeg" alt="img-microsoft-michael">
 
-I’m Michael Coutanche, Practice Lead for Cloud & AI Platforms at Cloud Direct, a leading Microsoft Partner and Azure Expert MSP based in the UK. I help organisations design, build, and evolve modern cloud and AI‑enabled platforms on Microsoft Azure, with a strong focus on modernisation, innovation, and secure‑by‑design foundations that support scale, resilience, and continuous change.
+I’m Michael Coutanche, Practice Lead for Cloud, Data & AI Modernisation at Cloud Direct, a leading Microsoft Partner and Azure Expert MSP based in the UK. I help organisations design, build, and evolve modern cloud and AI‑enabled platforms on Microsoft Azure, with a strong focus on modernisation, innovation, and secure‑by‑design foundations that support scale, resilience, and continuous change.
 
 Over the years, I’ve had the opportunity to work closely with Microsoft in a variety of roles. One of the highlights was serving as a Partner Technical Solutions Professional (P‑TSP) for Azure, which gave me deep, hands‑on exposure to how Azure is adopted and operated in complex, real‑world environments. More recently, I was invited to join the Microsoft Partner Advisory Council (PAC), where I’ve contributed to both the Azure Infrastructure PAC and the Azure Migrate & Modernize PAC, working alongside global experts to help influence the future direction of Azure platform capabilities and partner‑led delivery.
 
