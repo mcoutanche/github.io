@@ -152,28 +152,28 @@ Tune sources, add examples, and refine prompts to lift answer quality.
 <img src="{{ site.baseurl }}/assets/img/2026/02/2026-02-13-image-009.png" alt="Step 9 – Analytics dashboard: usage trends, unhandled queries, satisfaction">
 
 ## Copy‑Paste Snippets You Can Reuse
-### Welcome Prompt (short):
+#### Welcome Prompt (short):
 
 ```
 1 Hi! I’m your Customer Support Copilot. I can help with FAQs, product information, and order status.
 2 Choose an option to get started, or ask your question in your own words.
 ```
 
-### Fallback (safe & helpful):
+#### Fallback (safe & helpful):
 
 ```
 1 I might not have enough information to answer that confidently.
 2 Would you like me to connect you to a person, or try rephrasing your question about our products or orders?
 ```
 
-### Order Status Success:
+#### Order Status Success:
 
 ```
 1 Order {OrderID} is currently {Status}. Estimated delivery: {ETA}.
 2 Anything else I can help with—FAQs, product info, or another order?
 ```
 
-### Escalation (human handoff):
+#### Escalation (human handoff):
 
 ```
 1 I’ve opened a support ticket and shared your details with our team. You’ll receive an update shortly.
@@ -193,3 +193,9 @@ Tune sources, add examples, and refine prompts to lift answer quality.
 - Connect **Dataverse/SQL** for richer product details
 - Use **Adaptive Cards** for structured responses (e.g., order summary card)
 - Localize to additional languages and A/B test prompts
+
+## Helpful Resources
+
+- [Microsoft AI Agents Hub](https://adoption.microsoft.com/en-gb/ai-agents/)
+
+---
