@@ -46,7 +46,7 @@ Clarify what your agent will—and won’t—do. For our demo:
 3. Choose language and environment.
 4. Save.
 
-<img src="{{ site.baseurl }}/assets/img/2026/02/2026-02-13-image-002.jpg" alt="Step 2 – Copilot Studio “Create a copilot” screen">
+<img src="{{ site.baseurl }}/assets/img/2026/02/2026-02-13-image-002.png" alt="Step 2 – Copilot Studio “Create a copilot” screen">
 
 ## Step 3 — Add Topics (10–15 mins)
 Topics are conversation building blocks: they define triggers, messages, questions, and actions.
@@ -72,7 +72,7 @@ Create three topics:
 - *Action:* Call a **Power Automate* flow (Step 5) → return status
 - *Bot says:* “Your order **{OrderID}** is **{Status}** with ETA **{ETA}**.”
 
-<img src="{{ site.baseurl }}/assets/img/2026/02/2026-02-13-image-003.jpg" alt="Step 3 – Topics list and a simple dialog flow: Welcome → Choices → Topic branches">
+<img src="{{ site.baseurl }}/assets/img/2026/02/2026-02-13-image-003.png" alt="Step 3 – Topics list and a simple dialog flow: Welcome → Choices → Topic branches">
 
 ## Step 4 — Connect Knowledge Sources (5–10 mins)
 To make answers useful, connect data:
@@ -86,7 +86,7 @@ Then enable **Generative Answers** on the FAQ topic to ground responses in your 
 
 >**Good practice:** Keep your sources tidy and scoped. Use role‑based permissions so the agent only answers from content users are allowed to see.
 
-<img src="{{ site.baseurl }}/assets/img/2026/02/2026-02-13-image-004.jpg" alt="Step 4 – Data connections panel: SharePoint, Website, Files, Dataverse">
+<img src="{{ site.baseurl }}/assets/img/2026/02/2026-02-13-image-004.png" alt="Step 4 – Data connections panel: SharePoint, Website, Files, Dataverse">
 
 ## Step 5 — Build an “Order Status” Action with Power Automate (15–20 mins)
 
@@ -103,7 +103,7 @@ Then enable **Generative Answers** on the FAQ topic to ground responses in your 
 
 > **No API yet?** Mock the response in Power Automate with a **Compose** step so you can finish the build, then swap in the real connector later.
 
-<img src="{{ site.baseurl }}/assets/img/2026/02/2026-02-13-image-005.jpg" alt="Step 5 – Flow diagram: Input OrderID → Get Order → Return Status/ETA → Copilot message">
+<img src="{{ site.baseurl }}/assets/img/2026/02/2026-02-13-image-005.png" alt="Step 5 – Flow diagram: Input OrderID → Get Order → Return Status/ETA → Copilot message">
 
 ## Step 6 — Add Guardrails (3–5 mins)
 
