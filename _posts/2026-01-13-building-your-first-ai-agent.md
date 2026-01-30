@@ -53,7 +53,7 @@ For this tutorial, we'll use Python + AutoGen, as it’s beginner‑friendly and
 Step 2: Install AutoGen
 Open your terminal and run:
 
-```python
+```shell
 pip install pyautogen
 ```
 > 💡 AutoGen makes it easy to create multi‑agent systems with tools, memory, and planning.
