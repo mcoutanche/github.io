@@ -154,30 +154,30 @@ Tune sources, add examples, and refine prompts to lift answer quality.
 ## Copy‑Paste Snippets You Can Reuse
 ### Welcome Prompt (short):
 
-```Plain Text
-1   Hi! I’m your Customer Support Copilot. I can help with FAQs, product information, and order status.
-2   Choose an option to get started, or ask your question in your own words.
+```
+1 Hi! I’m your Customer Support Copilot. I can help with FAQs, product information, and order status.
+2 Choose an option to get started, or ask your question in your own words.
 ```
 
 ### Fallback (safe & helpful):
 
-```Plain Text
-I might not have enough information to answer that confidently.
-Would you like me to connect you to a person, or try rephrasing your question about our products or orders?
+```
+1 I might not have enough information to answer that confidently.
+2 Would you like me to connect you to a person, or try rephrasing your question about our products or orders?
 ```
 
 ### Order Status Success:
 
-```Plain Text
-Order {OrderID} is currently {Status}. Estimated delivery: {ETA}.
-Anything else I can help with—FAQs, product info, or another order?
+```
+1 Order {OrderID} is currently {Status}. Estimated delivery: {ETA}.
+2 Anything else I can help with—FAQs, product info, or another order?
 ```
 
 ### Escalation (human handoff):
 
-```Plain Text
-I’ve opened a support ticket and shared your details with our team. You’ll receive an update shortly.
-Reference: {TicketID}
+```
+1 I’ve opened a support ticket and shared your details with our team. You’ll receive an update shortly.
+2 Reference: {TicketID}
 ```
 
 ## Troubleshooting Checklist
