@@ -15,7 +15,7 @@ layout: post
 categories:
     - Articles
 ---
-If you've stumbled across this post, **welcome!** Whether you’ve followed my work before or just landed here by accident (thanks, search engine magic), I’m glad you’re here.
+If you've stumbled across this post, **welcome!** Whether you’ve come across my posts before or just landed here by accident (thanks, search engine magic), I’m glad you’re here.
 
 Some of you might remember my old blog, which was hosted on a Wordpress site, where I shared bits and pieces from my journey through the Microsoft tech stack. It’s been a while since I posted anything there, life, work, and the occasional blog platform meltdown got in the way. But now, I’m back with a fresh space now hosted in GitHub pages, a better setup for the site, and a renewed focus.
 
