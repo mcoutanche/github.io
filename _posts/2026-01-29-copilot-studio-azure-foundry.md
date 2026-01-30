@@ -7,6 +7,10 @@ tags: [Microsoft, Copilot, Foundry, AI, Cloud]
 layout: post
 categories:
     - Articles
+    - Copilot
+    - Foundy
+    - AI
+    - Cloud
 ---
 
 The more conversations I have with customers about AI strategy, the more often the same question comes up: 
