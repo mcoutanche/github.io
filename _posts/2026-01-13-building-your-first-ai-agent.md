@@ -1,7 +1,7 @@
 ---
 id: 11
 title: 'Building your fisrt AI Agent'
-date: '2026-02-13T00:00:00+00:00'
+date: '2026-01-13T00:00:00+00:00'
 author: 'Michael Coutanche'
 layout: post
 categories:
