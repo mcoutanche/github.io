@@ -4,6 +4,7 @@ title: 'Building your fisrt AI Agent'
 date: '2026-01-13T00:00:00+00:00'
 author: 'Michael Coutanche'
 layout: post
+hidden: true  # Custom variable to hide from lists  
 categories:
     - Articles
 ---
