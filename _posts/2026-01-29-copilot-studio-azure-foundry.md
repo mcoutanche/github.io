@@ -6,7 +6,6 @@ author: 'Michael Coutanche'
 ## tags: [Microsoft, Copilot, Foundry, AI, Cloud]
 layout: post
 categories:
-    - Articles
     - Copilot
     - Foundy
     - AI
@@ -26,7 +25,7 @@ Microsoft Copilot Studio is a low‑code, SaaS-based platform designed for busin
 
 <img src="{{ site.baseurl }}/assets/img/2026/01/2026-01-29-image-001.webp" alt="Copilot Studio architecture">
 
-#### Key facts:
+#### Key facts: 
 
 - Built for business domain experts and IT pros, not developers.
 - Delivered as fully managed SaaS with no infrastructure to maintain.
@@ -143,3 +142,7 @@ If your organisation is shaping a Copilot or AI agent strategy, understanding wh
 - [Microsoft Learn: What is Microsoft Foundry?](https://learn.microsoft.com/en-us/azure/ai-foundry/what-is-foundry?view=foundry)
 - [Microsoft Learn: Copilot Studio overview](https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-what-is-copilot-studio)
 - [Microsoft Copilot Studio Resources](https://microsoft.github.io/copilot-studio-resources/)
+
+
+
+---
