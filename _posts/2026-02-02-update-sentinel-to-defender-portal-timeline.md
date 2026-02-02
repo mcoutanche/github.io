@@ -19,7 +19,7 @@ As a cloud architect working with customers navigating operational change, I act
 #### Why This Matters: The Portal Is Becoming the Platform
 The Defender portal is far more than a refreshed UI. Microsoft is unifying the full capabilities of Microsoft Sentinel, Microsoft Defender XDR, Microsoft Security Exposure Management, and generative AI into a single operational hub for its security ecosystem. 
 
-<img src="{{ site.baseurl }}/assets/img/2026/01/2026-02-02-image-001.jpg" alt="Microsoft Defender portal">
+<img src="{{ site.baseurl }}/assets/img/2026/02/2026-02-02-image-001.jpg" alt="Microsoft Defender portal">
 
 Several capabilities now exist exclusively within this portal, including:
 
