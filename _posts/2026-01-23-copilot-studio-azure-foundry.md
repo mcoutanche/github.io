@@ -23,7 +23,7 @@ If you're trying to decide where to begin, or whether a combination of both plat
 ## What Is Copilot Studio?
 Microsoft Copilot Studio is a low‑code, SaaS-based platform designed for business teams, IT admins, and “pro‑makers” who want to build AI agents quickly with minimal development overhead. It offers a visual canvas for conversation design, automation, connectors, and publishing directly into Microsoft 365 experiences.
 
-<img src="{{ site.baseurl }}/assets/img/2026/01/2026-01-29-image-001.webp" alt="Copilot Studio architecture">
+<img src="{{ site.baseurl }}/assets/img/2026/01/2026-01-23-image-001.webp" alt="Copilot Studio architecture">
 
 #### Key facts: 
 
@@ -38,7 +38,7 @@ Microsoft Copilot Studio is a low‑code, SaaS-based platform designed for busin
 
 Azure Foundary is Microsoft’s secure, flexible platform for designing, customising, and managing AI apps and agents. It's a developer-first, code-centric platform for building sophisticated AI applications, scalable agents, and domain-specific solutions using Azure’s full cloud ecosystem.
 
-<img src="{{ site.baseurl }}/assets/img/2026/01/2026-01-29-image-002.png" alt="Azure AI Foundary">
+<img src="{{ site.baseurl }}/assets/img/2026/01/2026-01-23-image-002.png" alt="Azure AI Foundary">
 
 #### Key facts:
 
@@ -52,7 +52,7 @@ Azure Foundary is Microsoft’s secure, flexible platform for designing, customi
 ## Core Differences at a Glance
 
 
-<img src="{{ site.baseurl }}/assets/img/2026/01/2026-01-29-image-003.jpg" alt="Comparison">
+<img src="{{ site.baseurl }}/assets/img/2026/01/2026-01-23-image-003.jpg" alt="Comparison">
 
 <!-->
 **Audience & Skills**
