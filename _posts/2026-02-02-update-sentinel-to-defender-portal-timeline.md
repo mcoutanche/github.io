@@ -12,9 +12,9 @@ categories:
     - Defender XDR
     - Security
 ---
-Microsoft has officially extended the retirement of the Azure‑based Sentinel experience to **March 31, 2027**, giving organisations nearly a year more than originally planned to shift fully into the Microsoft Defender portal. This move comes after significant customer and partner feedback, especially from those managing Sentinel at scale—who stressed the need for additional time and capability maturity before committing to a full transition. 
+Microsoft has officially extended the retirement of the Azure‑based Sentinel experience to **March 31, 2027**, giving organisations nearly a year more than originally planned to shift fully into the Microsoft Defender portal. This move comes after significant customer and partner feedback, especially from those managing Sentinel at scale, who stressed the need for additional time and capability maturity before committing to a full transition. 
 
-As a cloud architect working with customers navigating operational change, I actually see this announcement as more than just “more time.” It reflects the scale of transformation Microsoft is driving—moving Sentinel from a standalone SIEM experience toward a unified SecOps fabric where SIEM and XDR finally live side-by-side.
+As a cloud architect working with customers navigating operational change, I actually see this announcement as more than just “more time.” It reflects the scale of transformation Microsoft is driving, moving Sentinel from a standalone SIEM experience toward a unified SecOps fabric where SIEM and XDR finally live side-by-side.
 
 #### Why This Matters: The Portal Is Becoming the Platform
 The Defender portal is far more than a refreshed UI. Microsoft is unifying the full capabilities of Microsoft Sentinel, Microsoft Defender XDR, Microsoft Security Exposure Management, and generative AI into a single operational hub for its security ecosystem. 
