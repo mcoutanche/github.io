@@ -1,7 +1,7 @@
 ---
 id: 10
 title: 'Copilot Studio vs Azure AI Foundry: How to Choose the Right Platform for Your AI Strategy'
-date: '2026-01-29T00:00:00+00:00'
+date: '2026-01-23T00:00:00+00:00'
 author: 'Michael Coutanche'
 ## tags: [Microsoft, Copilot, Foundry, AI, Cloud]
 layout: post
