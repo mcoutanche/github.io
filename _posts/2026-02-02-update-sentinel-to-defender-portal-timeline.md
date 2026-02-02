@@ -36,7 +36,7 @@ What stood out to me most from Microsoft’s update is the steady stream of reli
 
 These are not cosmetic updates, they remove operational blockers that previously made large enterprises hesitant to switch portals.
 
-#### My Take: Start Planning Now, Even With the Extra Time
+#### Start Planning Now, Even With the Extra Time
 Although the deadline has moved, delaying planning isn’t a winning strategy. With many features only available in the Defender portal, and the promise of next‑generation SOAR and case management landing there, it’s clear the Azure Sentinel interface is entering maintenance mode.
 
 Microsoft has provided transition guides, onboarding videos, and migration‑focused webinars to help customers prepare. 
