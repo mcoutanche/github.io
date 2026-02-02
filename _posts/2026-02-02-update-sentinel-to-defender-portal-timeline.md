@@ -17,7 +17,7 @@ Microsoft has officially extended the retirement of the Azure‑based Sentinel e
 As a cloud architect working with customers navigating operational change, I actually see this announcement as more than just “more time.” It reflects the scale of transformation Microsoft is driving—moving Sentinel from a standalone SIEM experience toward a unified SecOps fabric where SIEM and XDR finally live side-by-side.
 
 #### Why This Matters: The Portal Is Becoming the Platform
-The Defender portal isn’t just a new UI—it’s becoming the operational hub for Microsoft’s security ecosystem. Several capabilities now live exclusively there, including:
+The Defender portal isn’t just a new UI, it’s becoming the operational hub for Microsoft’s security ecosystem. Several capabilities now live exclusively there, including:
 
 - Security Copilot, Microsoft’s GenAI-driven assistant for incident response and threat hunting.
 - Sentinel Data Lake for long-term security data retention and advanced analytics.
