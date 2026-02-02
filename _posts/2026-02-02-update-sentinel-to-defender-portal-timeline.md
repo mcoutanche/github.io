@@ -54,4 +54,5 @@ If you want help creating a migration plan or communicating this change to your 
 
 - [Microsoft Tech Community Update](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/update-new-timeline-for-transitioning-sentinel-experience-to-defender-portal/4490464)
 - [Microsoft Sentinel is now in Defender YouTube Playlist](https://www.youtube.com/playlist?list=PL3ZTgFEc7Lyska6WLWBzc8sob-kYA2jPj)
+  
 ---
