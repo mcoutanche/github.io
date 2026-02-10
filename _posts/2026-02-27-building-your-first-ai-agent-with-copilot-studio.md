@@ -1,11 +1,11 @@
 ---
-id: 12
+id: 13
 title: 'Building your first AI Agent with Copilot Studio'
-date: '2026-01-13T00:00:00+00:00'
+date: '2026-02-27T00:00:00+00:00'
 author: 'Michael Coutanche'
 layout: post
 hidden: true  # Custom variable to hide from lists  
-published: false 
+published: true 
 categories:
     - Articles
 ---
