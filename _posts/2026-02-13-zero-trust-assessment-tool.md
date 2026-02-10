@@ -9,7 +9,7 @@ published: true
 categories:
     - Articles
 ---
-# THIS IS A DRAFT - TEST - UPDATE IMAGES
+# THIS IS A DRAFT
 
 
 Lastest update to the Zero Trust Assessment - the Network and Data pillars are in progress. 
@@ -17,3 +17,4 @@ Lastest update to the Zero Trust Assessment - the Network and Data pillars are i
 If you have not seen the Zero Trust Assessment, check out what it looks like at https://lnkd.in/gu4m5CQm
 
 https://microsoft.github.io/zerotrustassessment/demo/
+https://microsoft.github.io/zerotrustassessment/
