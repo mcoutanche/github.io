@@ -1,6 +1,6 @@
 ---
 id: 3
-title: "Upcoming Change: Default Outbound Internet Access Is Going Away"
+title: "Upcoming Change! Default Outbound Internet Access Is Going Away"
 date: '2025-09-11T00:00:00+00:00'
 author: 'Michael Coutanche'
 layout: post
