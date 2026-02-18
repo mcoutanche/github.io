@@ -18,27 +18,23 @@ categories:
 <img src="{{ site.baseurl }}/assets/img/2026/02/2026-02-13-image-001.png" alt="Unmanaged Disks Depricated" style="max-width: 50%; height: auto; float: right;">
 
 
-As Azure continues to mature its infrastructure services, one of the more significant storage changes on the horizon is the retirement of unmanaged disks. Microsoft first introduced managed disks back in 2017, and over time they have evolved to fully supersede the capabilities of unmanaged disk architectures. As a result, Azure will retire unmanaged disks on March 31, 2026, an extension from the previously published date of September 30, 2025. Any virtual machines still relying on unmanaged disks after this deadline will be unable to start, and running VMs will be stopped and deallocated automatically. [learn.microsoft.com], [learn.microsoft.com]
+As Azure evolves its infrastructure services, Microsoft is retiring unmanaged disks in favour of managed disks, which have fully replaced the legacy architecture since their introduction in 2017. The new retirement deadline is March 31, 2026, extended from September 30, 2025. After this date, VMs using unmanaged disks cannot start, and any running VMs will be stopped and deallocated.
 
-This retirement specifically affects page blobs used as virtual hard disks (VHDs) attached directly to virtual machines. Workloads that use page blobs purely through REST APIs, without VM attachment, are not impacted by the change. For organisations still running legacy architectures, this distinction is important—some storage-centric solutions that use page blobs outside of VM disk scenarios may continue operating without modification. [learn.microsoft.com]
+This retirement applies specifically to page blobs used as VHDs attached to VMs. However, workloads using page blobs only through REST APIs—and not as VM disks—are unaffected, an important distinction for organisations using storage‑driven architectures outside of VM scenarios.
 
-For most customers, however, the priority now is migration planning. Fortunately, managed disks offer clear operational advantages, including improved availability, simplified storage management, and options for larger and more performant disk types. Azure provides several migration paths, covering standalone VMs, VMs in availability sets, and classic-to-ARM transitions. Administrators should inventory their estate by filtering VMs that are not yet using managed disks or by querying Azure Resource Graph, ensuring that all impacted workloads are identified early. [learn.microsoft.com], [learn.microsoft.com] [learn.microsoft.com]
+Most organisations now need to prioritise migration planning. Managed disks offer clearer operational benefits: improved availability, simplified management, and access to larger and more performant disk types. Azure provides supported migration options for standalone VMs, availability sets, and classic‑to‑ARM transitions. Administrators should identify affected workloads using portal filtering or Azure Resource Graph queries.
 
-While Microsoft has not published cost‑impact specifics for individual environments, switching to managed disks may result in cost differences depending on disk size, performance tier, and current utilisation patterns. Managed disks operate on provisioned size rather than consumed space, so a review of current disk allocations and right‑sizing opportunities is highly recommended. Using the Azure pricing calculator to model expected costs can help organisations align migration steps with budget planning. [learn.microsoft.com]
+Cost impacts vary: managed disks are billed on provisioned size, not consumed capacity, so right‑sizing is recommended before migration. The Azure Pricing Calculator can help model expected cost changes and guide budget planning.
 
-With the final deadline approaching, now is the right time for teams to validate their migration processes, test the conversion of representative workloads, and build a structured transition plan. Managed disks not only ensure compatibility with Azure’s future roadmap but also provide a more reliable, scalable foundation for modern cloud infrastructure. The sooner organisations begin the shift, the smoother their operational continuity will be as Azure phases out unmanaged disk support.
+With the retirement date approaching, teams should validate migration procedures, test conversions, and build a structured plan. Moving to managed disks ensures long‑term compatibility with Azure’s roadmap and provides a more stable and scalable infrastructure foundation.
 
-***How to Update to Managed Disks***
+**How to Update to Managed Disks**
+Migrating a VM requires a brief maintenance window. For single-instance VMs, Azure’s commands convert the OS disk and attached data disks after the VM is deallocated; once conversion is complete, the VM restarts on managed disks. For availability sets, the set must be converted first before migrating the VMs.
 
-Migrating a VM from unmanaged to managed disks is a straightforward process, but it does require a short maintenance window. For single-instance VMs, Azure provides built‑in commands that convert both the OS disk and any attached data disks. The VM must first be deallocated before running the conversion, and once the migration completes, Azure restarts the VM using managed disks. For VMs running in an availability set, the availability set itself must be converted first before individual VMs can be migrated, but Azure also provides the tooling to handle this scenario. [learn.microsoft.com]
-After migration, the original VHD page blobs and storage accounts are not automatically removed. These continue to incur charges until manually deleted, so it’s important to verify successful conversion and then clean up unused artifacts. Azure’s tooling—such as PowerShell cmdlets and the Azure portal—makes it easy to identify and remove these leftover disks. By following these steps, teams can transition to managed disks smoothly while ensuring cost efficiency and resource hygiene. [learn.microsoft.com]
+Post‑migration, the original VHD page blobs and storage accounts remain and continue to incur charges. These must be manually deleted after verifying a successful migration. Azure’s portal and PowerShell tools make identifying and removing unused artifacts straightforward, ensuring both smooth migration and cost hygiene.
 
-https://learn.microsoft.com/en-us/azure/virtual-machines/unmanaged-disks-deprecation
+## Helpful Resources  
 
-Quick check: Azure Portal → VMs → filter "Uses managed disks = No"
+- [Microsoft Learn: Migrate your Azure unmanaged disks by March 31, 2026](https://learn.microsoft.com/en-us/azure/virtual-machines/unmanaged-disks-deprecation)
+- [Microsoft Q&A](https://learn.microsoft.com/en-us/answers/tags/94/azure-virtual-machines)
 
-If anything shows up - you have 6 weeks.
-
-The migration itself is simple (stop VM, convert, restart - minutes per VM), but planning maintenance windows across a production environment takes time.
-
-Don't wait until March to find out.
