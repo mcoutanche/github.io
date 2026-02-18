@@ -1,6 +1,6 @@
 ---
 id: 12
-title: 'Upcoming Change! Unmanaged Disk Support Ending'
+title: 'Important Update: Unmanaged Disk Support Ending'
 date: '2026-02-13T00:00:00+00:00'
 author: 'Michael Coutanche'
 layout: post
