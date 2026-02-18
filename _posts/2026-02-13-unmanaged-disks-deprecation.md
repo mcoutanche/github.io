@@ -9,7 +9,7 @@ published: true
 categories:
     - Articles
 ---
-**WARNING:** Starting April 1, 2026, Azure IaaS virtual machines that rely on unmanaged disks will no longer be able to start. If any of these VMs are still running or allocated at that time, Azure will automatically stop and deallocate them. This change marks the next step in Microsoft’s move toward fully managed, more resilient disk options—so now’s the time to migrate any remaining unmanaged disks to managed disks to avoid service interruptions.
+>Starting **April 1, 2026**, Azure IaaS virtual machines that rely on unmanaged disks will no longer be able to start. If any of these VMs are still running or allocated at that time, Azure will automatically stop and deallocate them. This change marks the next step in Microsoft’s move toward fully managed, more resilient disk options—so now’s the time to migrate any remaining unmanaged disks to managed disks to avoid service interruptions.
 
 <img src="{{ site.baseurl }}/assets/img/2026/02/2026-02-13-image-001.png" alt="Unmanaged Disks Depricated" style="max-width: 50%; height: auto; float: right;">
 
@@ -25,7 +25,9 @@ With the final deadline approaching, now is the right time for teams to validate
 
 ## How to Update to Managed Disks
 
-Migrating a VM from unmanaged to managed disks is a straightforward process, but it does require a short maintenance window. For single-instance VMs, Azure provides built‑in commands that convert both the OS disk and any attached data disks. The VM must first be deallocated before running the conversion, and once the migration completes, Azure restarts the VM using managed disks. For VMs running in an availability set, the availability set itself must be converted first before individual VMs can be migrated, but Azure also provides the tooling to handle this scenario.
+>Migrating a VM from unmanaged to managed disks is a straightforward process, but it does require a short maintenance window. 
+
+For single-instance VMs, Azure provides built‑in commands that convert both the OS disk and any attached data disks. The VM must first be deallocated before running the conversion, and once the migration completes, Azure restarts the VM using managed disks. For VMs running in an availability set, the availability set itself must be converted first before individual VMs can be migrated, but Azure also provides the tooling to handle this scenario.
 
 After migration, the original VHD page blobs and storage accounts are not automatically removed. These continue to incur charges until manually deleted, so it’s important to verify successful conversion and then clean up unused artifacts. Azure’s tooling—such as PowerShell cmdlets and the Azure portal—makes it easy to identify and remove these leftover disks. By following these steps, teams can transition to managed disks smoothly while ensuring cost efficiency and resource hygiene. 
 
