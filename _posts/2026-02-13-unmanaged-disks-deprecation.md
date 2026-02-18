@@ -31,10 +31,11 @@ For single-instance VMs, Azure provides built‑in commands that convert both th
 
 After migration, the original VHD page blobs and storage accounts are not automatically removed. These continue to incur charges until manually deleted, so it’s important to verify successful conversion and then clean up unused artifacts. Azure’s tooling—such as PowerShell cmdlets and the Azure portal—makes it easy to identify and remove these leftover disks. By following these steps, teams can transition to managed disks smoothly while ensuring cost efficiency and resource hygiene. 
 
-# Example snippet to find unattached VHDs
->$unattachedVHDs = Get-AzStorageBlob -Container "vhds" -Context $storageContext | Where-Object {$_.ICloudBlob.Properties.LeaseStatus -eq "Unlocked"}
->$unattachedVHDs | Select-Object Name, Length, LastModified
+# Identifying unattached Azure disks:
 
+- [Using the Azure Portal](https://learn.microsoft.com/en-us/azure/virtual-machines/disks-find-unattached-portal)
+- [Using the Azure CLI](https://learn.microsoft.com/en-us/azure/virtual-machines/linux/find-unattached-disks)
+- [Using the Azure PowerShell](https://learn.microsoft.com/en-us/azure/virtual-machines/windows/find-unattached-disks)
 
 ## Helpful Resources  
 
