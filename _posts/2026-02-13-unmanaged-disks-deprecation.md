@@ -10,7 +10,7 @@ categories:
     - Articles
 ---
 
-<div style="text-align: center;">
+<div style="text-align: right;">
 <img src="{{ site.baseurl }}/assets/img/2026/02/2026-02-13-image-001.png" alt="Unmanaged Disks Depricated" style="max-width: 50%; height: auto;">
 </div>
 
