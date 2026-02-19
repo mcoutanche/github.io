@@ -11,7 +11,7 @@ categories:
 ---
 <img src="{{ site.baseurl }}/assets/img/2026/02/2026-02-13-image-001.png" alt="Unmanaged Disks Depricated" style="max-width: 100%; height: auto;">
 
->Starting **1st April 2026**, Azure IaaS virtual machines that rely on unmanaged disks will no longer be able to start. If any of these VMs are still running or allocated at that time, Azure will automatically stop and deallocate them. This change marks the next step in Microsoft’s move toward fully managed, more resilient disk options—so now’s the time to migrate any remaining unmanaged disks to managed disks to avoid service interruptions.
+>Starting **1st April 2026**, Azure IaaS virtual machines that rely on unmanaged disks will no longer be able to start. If any of these VMs are still running or allocated at that time, Azure will automatically stop and deallocate them. <!-- This change marks the next step in Microsoft’s move toward fully managed, more resilient disk options, so now’s the time to migrate any remaining unmanaged disks to managed disks to avoid service interruptions. -->
 
 As Azure continues to mature its infrastructure services, one of the more significant storage changes on the horizon is the retirement of unmanaged disks. Microsoft first introduced managed disks back in 2017, and over time they have evolved to fully supersede the capabilities of unmanaged disk architectures. As a result, Azure will retire unmanaged disks on 31st March 2026, an extension from the previously published date of 30th September 2025. Any virtual machines still relying on unmanaged disks after this deadline will be unable to start, and running VMs will be stopped and deallocated automatically.
 
