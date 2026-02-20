@@ -19,6 +19,7 @@ Outside of work, I enjoy training my German Shepherds, an activity that reinforc
 
 This blog is where I share lessons learned, platform patterns, and opinionated insights on Azure cloud and AI‑enabled platforms, modernisation, innovation, Zero Trust security, AI governance, InfraOps, modern operational models, and agentic cloud operations, grounded in real‑world delivery experience and close collaboration with customers, partners, and Microsoft.
 
+Connect with me on LinkedIn
 [![LinkedIn]({{ site.baseurl }}/assets/img/connectli.png)](https://www.linkedin.com/in/michaelcoutanche/)
 
-Connect with me on LinkedIn
+
