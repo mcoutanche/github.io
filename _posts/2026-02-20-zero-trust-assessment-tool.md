@@ -1,5 +1,5 @@
 ---
-id: 13
+id: 12
 title: 'The Microsoft Zero Trust Assessment Tool'
 date: '2026-02-20T00:00:00+00:00'
 author: 'Michael Coutanche'

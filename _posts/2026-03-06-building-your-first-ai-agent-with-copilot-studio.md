@@ -1,7 +1,7 @@
 ---
-id: 14
+id: 13
 title: 'Building your first AI Agent with Copilot Studio'
-date: '2026-02-27T00:00:00+00:00'
+date: '2026-03-06T00:00:00+00:00'
 author: 'Michael Coutanche'
 layout: post
 hidden: true  # Custom variable to hide from lists  
@@ -39,7 +39,7 @@ Clarify what your agent will—and won’t—do. For our demo:
 - **Tone:** Helpful, concise, friendly
 - **Guardrails:** Don’t answer outside support topics; route to human if uncertain
 
-<img src="{{ site.baseurl }}/assets/img/2026/02/2026-02-13-image-001.png" alt="Step 1 – Goals & scope storyboard (purpose, audience, use cases, guardrails)">
+<img src="{{ site.baseurl }}/assets/img/2026/03/2026-03-06-image-001.png" alt="Step 1 – Goals & scope storyboard (purpose, audience, use cases, guardrails)">
 
 ## Step 2 — Create a New Copilot (3 mins)
 
@@ -48,7 +48,7 @@ Clarify what your agent will—and won’t—do. For our demo:
 3. Choose language and environment.
 4. Save.
 
-<img src="{{ site.baseurl }}/assets/img/2026/02/2026-02-13-image-002.png" alt="Step 2 – Copilot Studio “Create a copilot” screen">
+<img src="{{ site.baseurl }}/assets/img/2026/03/2026-03-06-image-002.png" alt="Step 2 – Copilot Studio “Create a copilot” screen">
 
 ## Step 3 — Add Topics (10–15 mins)
 Topics are conversation building blocks: they define triggers, messages, questions, and actions.
@@ -74,7 +74,7 @@ Create three topics:
 - *Action:* Call a **Power Automate* flow (Step 5) → return status
 - *Bot says:* “Your order **{OrderID}** is **{Status}** with ETA **{ETA}**.”
 
-<img src="{{ site.baseurl }}/assets/img/2026/02/2026-02-13-image-003.png" alt="Step 3 – Topics list and a simple dialog flow: Welcome → Choices → Topic branches">
+<img src="{{ site.baseurl }}/assets/img/2026/03/2026-03-06-image-003.png" alt="Step 3 – Topics list and a simple dialog flow: Welcome → Choices → Topic branches">
 
 ## Step 4 — Connect Knowledge Sources (5–10 mins)
 To make answers useful, connect data:
@@ -88,7 +88,7 @@ Then enable **Generative Answers** on the FAQ topic to ground responses in your 
 
 >**Good practice:** Keep your sources tidy and scoped. Use role‑based permissions so the agent only answers from content users are allowed to see.
 
-<img src="{{ site.baseurl }}/assets/img/2026/02/2026-02-13-image-004.png" alt="Step 4 – Data connections panel: SharePoint, Website, Files, Dataverse">
+<img src="{{ site.baseurl }}/assets/img/2026/03/2026-03-06-image-004.png" alt="Step 4 – Data connections panel: SharePoint, Website, Files, Dataverse">
 
 ## Step 5 — Build an “Order Status” Action with Power Automate (15–20 mins)
 
@@ -105,7 +105,7 @@ Then enable **Generative Answers** on the FAQ topic to ground responses in your 
 
 > **No API yet?** Mock the response in Power Automate with a **Compose** step so you can finish the build, then swap in the real connector later.
 
-<img src="{{ site.baseurl }}/assets/img/2026/02/2026-02-13-image-005.png" alt="Step 5 – Flow diagram: Input OrderID → Get Order → Return Status/ETA → Copilot message">
+<img src="{{ site.baseurl }}/assets/img/2026/03/2026-03-06-image-005.png" alt="Step 5 – Flow diagram: Input OrderID → Get Order → Return Status/ETA → Copilot message">
 
 ## Step 6 — Add Guardrails (3–5 mins)
 
@@ -113,7 +113,7 @@ Then enable **Generative Answers** on the FAQ topic to ground responses in your 
 - Configure **sensitive topics** and **escalation** to a human agent or helpdesk form.
 - Add a **/feedback** command to capture thumbs‑down and comments.
 
-<img src="{{ site.baseurl }}/assets/img/2026/02/2026-02-13-image-006.png" alt="Step 6 – Policy/guardrail panel with examples of allowed vs. routed content">
+<img src="{{ site.baseurl }}/assets/img/2026/03/2026-03-06-image-006.png" alt="Step 6 – Policy/guardrail panel with examples of allowed vs. routed content">
 
 ## Step 7 — Test in the Canvas (10 mins)
 Use the built‑in test pane:
@@ -125,7 +125,7 @@ Use the built‑in test pane:
 
 Iterate on prompts, triggers, and messages until the conversation feels natural.
 
-<img src="{{ site.baseurl }}/assets/img/2026/02/2026-02-13-image-007.png" alt="Step 7 – Test chat transcript showing each scenario passing">
+<img src="{{ site.baseurl }}/assets/img/2026/03/2026-03-06-image-007.png" alt="Step 7 – Test chat transcript showing each scenario passing">
 
 ## Step 8 — Publish & Add Channels (5–10 mins)
 
@@ -137,7 +137,7 @@ Iterate on prompts, triggers, and messages until the conversation feels natural.
 
 3. Set permissions and audience.
 
-<img src="{{ site.baseurl }}/assets/img/2026/02/2026-02-13-image-008.png" alt="Step 8 – Publish dialog and Teams channel add screen">
+<img src="{{ site.baseurl }}/assets/img/2026/03/2026-3-06-image-008.png" alt="Step 8 – Publish dialog and Teams channel add screen">
 
 ## Step 9 — Monitor & Improve (ongoing)
 Review analytics weekly:
@@ -149,7 +149,7 @@ Review analytics weekly:
 
 Tune sources, add examples, and refine prompts to lift answer quality.
 
-<img src="{{ site.baseurl }}/assets/img/2026/02/2026-02-13-image-009.png" alt="Step 9 – Analytics dashboard: usage trends, unhandled queries, satisfaction">
+<img src="{{ site.baseurl }}/assets/img/2026/03/2026-03-06-image-009.png" alt="Step 9 – Analytics dashboard: usage trends, unhandled queries, satisfaction">
 
 ## Copy‑Paste Snippets You Can Reuse
 #### Welcome Prompt (short):
