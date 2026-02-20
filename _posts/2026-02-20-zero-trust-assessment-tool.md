@@ -4,7 +4,7 @@ title: 'Microsofts Zero Trust Assessment Tool'
 date: '2026-02-19T00:00:00+00:00'
 author: 'Michael Coutanche'
 layout: post
-hidden: true  # Custom variable to hide from lists  
+hidden: false  # Custom variable to hide from lists  
 published: true 
 categories:
     - Articles
