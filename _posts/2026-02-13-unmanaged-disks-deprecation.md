@@ -23,7 +23,7 @@ For most customers, however, the priority now is migration planning. Fortunately
 <img align="right" width="100%" src="{{ site.baseurl }}/assets/img/2026/02/2026-02-13-image-002.png" alt="Unmanaged Disks Depricated" style="max-width: 100%; height: auto;">
 
 
-While Microsoft has not published cost‑impact specifics for individual environments, switching to managed disks may result in cost differences depending on disk size, performance tier, and current utilisation patterns. Managed disks operate on provisioned size rather than consumed space, so a review of current disk allocations and right‑sizing opportunities is highly recommended. Using the Azure pricing calculator to model expected costs can help organisations align migration steps with budget planning.
+While Microsoft has not published cost‑impact specifics for individual environments, switching to managed disks may result in cost differences depending on disk size, performance tier, and current utilisation patterns. **Managed disks operate on provisioned size rather than consumed space**, so a review of current disk allocations and right‑sizing opportunities is highly recommended. Using the Azure pricing calculator to model expected costs can help organisations align migration steps with budget planning.
 
 With the final deadline approaching, now is the right time for teams to validate their migration processes, test the conversion of representative workloads, and build a structured transition plan. Managed disks not only ensure compatibility with Azure’s future roadmap but also provide a more reliable, scalable foundation for modern cloud infrastructure. The sooner organisations begin the shift, the smoother their operational continuity will be as Azure phases out unmanaged disk support.
 
