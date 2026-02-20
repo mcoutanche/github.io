@@ -1,15 +1,19 @@
 ---
-id: 12
+id: 9
 title: 'Important Update: Unmanaged Disk Support Ending'
-date: '2026-02-13T00:00:00+00:00'
+date: '2026-01-09T00:00:00+00:00'
 author: 'Michael Coutanche'
 layout: post
 hidden: false  # Custom variable to hide from lists  
 published: true 
 categories:
-    - Articles
+    - Important Update
+    - Storage
+    - Unmanaged Disks
+    - Managed Disks
+    - Cost Management
 ---
-<img src="{{ site.baseurl }}/assets/img/2026/02/2026-02-13-image-001.png" alt="Unmanaged Disks Depricated" style="max-width: 100%; height: auto;">
+<img src="{{ site.baseurl }}/assets/img/2026/01/2026-01-09-image-001.png" alt="Unmanaged Disks Depricated" style="max-width: 100%; height: auto;">
 
 >Starting **1st April 2026**, Azure IaaS virtual machines that rely on unmanaged disks will no longer be able to start. If any of these VMs are still running or allocated at that time, Azure will automatically stop and deallocate them. <!-- This change marks the next step in Microsoft’s move toward fully managed, more resilient disk options, so now’s the time to migrate any remaining unmanaged disks to managed disks to avoid service interruptions. -->
 
@@ -20,7 +24,7 @@ This retirement specifically affects page blobs used as virtual hard disks (VHDs
 For most customers, however, the priority now is migration planning. Fortunately, managed disks offer clear operational advantages, including improved availability, simplified storage management, and options for larger and more performant disk types. Azure provides several migration paths, covering standalone VMs, VMs in availability sets, and classic-to-ARM transitions. Administrators should inventory their estate by filtering VMs that are not yet using managed disks or by querying Azure Resource Graph, ensuring that all impacted workloads are identified early.
 
 
-<img align="right" width="100%" src="{{ site.baseurl }}/assets/img/2026/02/2026-02-13-image-002.png" alt="Unmanaged Disks Depricated" style="max-width: 100%; height: auto;">
+<img align="right" width="100%" src="{{ site.baseurl }}/assets/img/2026/01/2026-01-09-image-002.png" alt="Unmanaged Disks Depricated" style="max-width: 100%; height: auto;">
 
 
 While Microsoft has not published cost‑impact specifics for individual environments, switching to managed disks may result in cost differences depending on disk size, performance tier, and current utilisation patterns. **Managed disks operate on provisioned size rather than consumed space**, so a review of current disk allocations and right‑sizing opportunities is highly recommended. Using the Azure pricing calculator to model expected costs can help organisations align migration steps with budget planning.

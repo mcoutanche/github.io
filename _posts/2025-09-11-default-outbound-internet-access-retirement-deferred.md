@@ -7,7 +7,10 @@ layout: post
 categories: [Azure, Networking]
 tags: [Cloud Adoption Framework, Governance, Security, VNet, NAT Gateway]
 categories:
-    - Articles
+    - Important Update
+    - Networking
+    - VNet
+    - Internet Access
 ---
 
 ## THIS POST IS A PLACEHOLDER AND NOT A PROPER POST 
