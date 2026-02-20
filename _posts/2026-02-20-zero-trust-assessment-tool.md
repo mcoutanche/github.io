@@ -1,7 +1,7 @@
 ---
 id: 13
 title: 'Microsofts Zero Trust Assessment Tool'
-date: '2026-02-19T00:00:00+00:00'
+date: '2026-02-20T00:00:00+00:00'
 author: 'Michael Coutanche'
 layout: post
 hidden: false  # Custom variable to hide from lists  
